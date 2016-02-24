@@ -1,0 +1,4259 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="Description" /><meta name="Keywords" /><meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" /><title>
+	GDXJ - Junior Gold Miners ETF | Holdings | Equity ETFs- Van Eck Global
+</title><script id="EktronJS" type="text/javascript" src="/WorkArea/java/ektron.js"></script><script id="GoogleJQueryMinJs" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script><script id="EktronSiteDataJS" type="text/javascript" src="/WorkArea/java/ektron.site-data.js.ashx"></script><script id="EktronRegisteredJs" type="text/javascript" src="/workarea/java/ektronJs.ashx?id=EktronWebToolBarJS"></script><link id="EktronRegisteredCss" rel="stylesheet" type="text/css" href="/workarea/csslib/ektronCss.ashx?id=EktronModalCss+EktronPageHostCss" />
+    
+
+<script id="VaneckThickBoxJs" type="text/javascript" src="/js/thickbox.js"></script><script id="VaneckACActiveXJs" type="text/javascript" src="/js/AC_ActiveX.js"></script><script id="VaneckACRunActiveContentJs" type="text/javascript" src="/js/AC_RunActiveContent.js"></script><script id="VaneckGoogleAnalyticsHandlerJs" type="text/javascript">$(document).ready(function () {
+                    $('a').click(function () {
+                        var ahref = $(this).attr('href');
+                        $.ajax({
+                            type: "POST",
+                            url: "/handlers/GAAnalytics.ashx",
+                            data: { "href": ahref },
+                            success: function (ret) {
+                            }
+                        });
+                    });
+                });</script><script id="VaneckJQueryTransformJs" type="text/javascript" src="/js/jquery.jqtransform.js?m=20140121"></script><script id="VaneckSearchHeaderTransformJs" type="text/javascript">$(document).ready(function() {
+                                                    $('.search_header').jqTransform();            
+                                                });</script><script id="VaneckEtfDocumentJs" type="text/javascript">document.createElement('header');
+                                        document.createElement('hgroup');
+                                        document.createElement('nav');
+                                        document.createElement('menu');
+                                        document.createElement('section');
+                                        document.createElement('article');
+                                        document.createElement('aside');
+                                        document.createElement('footer');</script><script id="JqueryUIMinJs" type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.7/jquery-ui.min.js"></script><script id="VaneckMainETFJs" type="text/javascript" src="/js/main_etf.js?m=20140121"></script><script id="VaneckCoreEtfJs" type="text/javascript">$(document).ready(function() {
+                                            $('.main').jqTransform();
+                                            $('.search_header').jqTransform();            
+                                        });
+                                        function hideFooter2() {
+                                            $('.footer_hide_li').hide();
+                                        }</script><link id="VaneckMainNavCss" type="text/css" rel="stylesheet" href="/css/mainnav.css?m=20140121" media="all" /><link id="VaneckMainNavEtfCss" type="text/css" rel="stylesheet" href="/css/mainnav_etf.css?m=20140121" media="all" /><link id="VaneckMainEtfCss" type="text/css" rel="stylesheet" href="/css/main_etf.css?m=20140121" media="all" /><link id="VaneckJQueryTransformEtfCss" type="text/css" rel="stylesheet" href="/css/jqtransform_etf.css?m=20140121" media="all" /><script id="VaneckSearchKeyDefault" type="text/javascript">$(document).ready(function () {
+											                $('#ctl00_ctl00_txtSearch').keydown(function (e) {
+												                if (e.keyCode == 13) {
+																	document.location = '/Search/?searchtext=' + $('#ctl00_ctl00_txtSearch').val();
+																	return false;
+												                }
+											                });
+										                });</script><link id="VaneckThickBoxCss" type="text/css" rel="stylesheet" href="/css/thickbox.css" media="all" /><link id="VaneckThickboxOverrideCss" type="text/css" rel="stylesheet" href="/css/thickbox_override.css" media="all" /><script id="DropdownRedirectJs" type="text/javascript">$(document).ready(function () {
+                                        $('.InvestorInformationDropDown').change(function () {
+                                            if($('.InvestorInformationDropDown').val() != '' && $('.InvestorInformationDropDown').val() != '0')
+                                            {
+                                                document.location = $('.InvestorInformationDropDown').val();
+                                            }
+                                        });
+                                    });</script><script id="HighChartsMainJs" type="text/javascript" src="http://code.highcharts.com/highcharts.js"></script><script id="HighChartsExportingJs" type="text/javascript" src="http://code.highcharts.com/modules/exporting.js"></script><script id="InitializeChartJs" type="text/javascript">$(document).ready(function () {
+			                            initMainTabs();
+			                            initWidgetTabs();
+			                            initNewRow();
+			                            initColumnWithHighchartWidget();
+			                            initLineHighchartWidget();
+			                            initCountryWeightings();
+			                            initCalenderReturnsChart();
+			                            initPremiumDiscountChart();
+		                            });</script></head>
+<body>
+    <form name="aspnetForm" method="post" action="/market-vectors/equity-etfs/gdxj/holdings/" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI2MjYzNzk3NA9kFgJmD2QWAmYPZBYEAgMQZGQWEAIFD2QWCAIBDxYCHgdWaXNpYmxlZxYCAgEPFgIeBFRleHQFFE5PTiAtIFUuUy4gSU5WRVNUT1JTZAIFDw8WAh8BBQZTRUFSQ0hkZAIJDxYCHwEFLzxhIGhyZWY9Ii9hYm91dC12YW4tZWNrL2NvbnRhY3QtdXMiPkNPTlRBQ1Q8L2E+ZAILDxYCHwEFBkZvbGxvd2QCFw9kFgICAQ9kFgQCAQ8PFgIfAGdkZAIFDw8WAh4LTmF2aWdhdGVVcmwFnAFtYWlsdG86P3N1YmplY3Q9R0RYSiAtIEp1bmlvciBHb2xkIE1pbmVycyBFVEYgfCBIb2xkaW5ncyB8IEVxdWl0eSBFVEZzLcKgVmFuIEVjayBHbG9iYWwmYm9keT1odHRwOi8vd3d3LnZhbmVjay5jb20vVGVtcGxhdGVzL1BhZ2VMYXlvdXRfRVRGLmFzcHg/cGFnZWlkPTMzMTVkZAIZD2QWAgIDDxBkZBYAZAIbD2QWDGYPZBYGAgEPZBYCAgIPZBYCZg9kFgICAQ8WAh4FY2xhc3MFEGRyb3B6b25lIFBCQ2xlYXIWAgIDDxYCHgtfIUl0ZW1Db3VudAIBFgJmD2QWAgIBDxYEHwMFCVBCVmlld2luZx4Fc3R5bGUFC3dpZHRoOjEwMCU7FgICAQ8WBB4IY29sdW1uaWQFATAeCmNvbHVtbmd1aWQFJDAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMBYCAgMPFgIfBAIHFgpmD2QWAgIBD2QWAgIDD2QWAmYPZBYCAgMPZBYCZg9kFgJmD2QWBGYPZBYCAgEPFgIfAQUSR0RYSjtmYWxzZTtNVkdEWEo7ZAIBD2QWAmYPEGRkFgBkAgEPZBYCAgEPZBYCAgMPZBYCZg9kFgICAw9kFgJmD2QWAmYPZBYEZg9kFgICAQ8WAh8BBRBFVEZFUV9IQTtmYWxzZTs7ZAIBD2QWAmYPEGRkFgBkAgMPZBYCAgEPZBYCAgMPZBYCZg9kFgICAw9kFgJmD2QWAmYPZBYCZg9kFgICAQ8WAh8DBQtibG9jayBtZWRpYRYEAgEPFgIfAQUeTWVkaWEgQ2VudGVyOiBIYXJkIEFzc2V0cyBFVEZzZAIDDxYCHwQCAhYEZg9kFgICAQ8PFgIfAgUzL0xpYnJhcnkvdmlld3BvaW50LXZpZGVvcy8/dmlkZW89NjM1MjE3NDg4NDAwNTg0NTAwZBYEZg8PFgIeCEltYWdlVXJsBWMvdXBsb2FkZWRJbWFnZXMvTGlicmFyeS9Bc3NldHMvVmlkZW9fSW1hZ2VzLzIwMTMvU2FtLUhhbHBlcnQtQWctMjAxMy1SZXZpZXctMjAxNC1PdXRsb29rLU9uLU9mZi5qcGdkZAIBD2QWAmYPFQFIQWdyaWJ1c2luZXNzOiBSZXZpZXcgb2YgMjAxMyBhbmQgT3V0bG9vayBmb3IgMjAxNCAoNjowMSk8YnIvPlNhbSBIYWxwZXJ0ZAIBD2QWAgIBDw8WAh8CBTMvTGlicmFyeS92aWV3cG9pbnQtdmlkZW9zLz92aWRlbz02MzUyMDUzODM1Nzk0MDU0MzVkFgRmDw8WAh8IBWQvdXBsb2FkZWRJbWFnZXMvTGlicmFyeS9Bc3NldHMvVmlkZW9fSW1hZ2VzLzIwMTMvQ2hhcmwtTWFsYW4tSW5kdXN0cmlhbC1Db3N0LUNhcGl0YWwtMjAxNC1Pbi1PZmYuanBnZGQCAQ9kFgJmDxUBWUluZHVzdHJpYWwgTWV0YWxzOiBGb2N1c2luZyBvbiBDYXBpdGFsIGFuZCBDb3N0IE1hbmFnZW1lbnQgaW4gMjAxNCAoNzowOSk8YnIvPkNoYXJsIE1hbGFuZAIED2QWAgIBD2QWAgIDD2QWAmYPZBYCAgMPZBYCZg9kFgJmD2QWAmYPZBYGAgEPFgIfAQUIRVRGRVFfSEFkAgMPDxYCHwFlZGQCBQ8WAh8BBekcPGRpdiBjbGFzcz0iYmxvY2sgbWVkaWEiPjxoMz5NYWtpbmcgTmV3czwvaDM+PGRpdiBjbGFzcz0ibGlnaHRfYmx1ZSI+PGEgaHJlZj0iL21hcmtldC12ZWN0b3JzL2VxdWl0eS1ldGZzL2hhcmQtYXNzZXRzLU1ha2luZy1OZXdzL0VURi1UcmVuZHMtLVNlZHVjZWQtYnktU29sYXItRVRGcy8iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZG9jcyBsaW5rIj5FVEYgVHJlbmRzOiBTZWR1Y2VkIGJ5IFNvbGFyIEVURnM8L2E+PHAgY2xhc3M9ImRlc2NyaXB0aW9uX3RleHQgcmVjZW50Ij48VGVhc2VyPjxwPjxiciAvPjExLzE1LzEzOiBUb2RkIFNocmliZXIgZGVzY3JpYmVzIHRoZSBpbXByb3ZpbmcgZnVuZGFtZW50YWwgb3V0bG9vayBmb3IgdGhlIHNvbGFyIHNwYWNlLiDigJxDaGVhcGVyIGZpbmFuY2luZywgaW5jbHVkaW5nIHRoZSBwcm9saWZlcmF0aW9uIG9mIHNvbGFyIGxlYXNpbmcsIGhhcyBoZWxwZWQgYm9sc3RlciBvbmNlIGRpbSBwcm9zcGVjdHMuIFRoZSBDaGluZXNlIGdvdmVybm1lbnQgc3RlcHBpbmcgdXAgdG8gaGVscCBpdHMgYWlsaW5nIHNvbGFyIGZpcm1zIGhhcyBiZWVuIGEgc2lnbmlmaWNhbnQgY2F0YWx5c3TigKbigJ08YnIgLz48YSB0aXRsZT0iVmlldyBhcnRpY2xlIiBocmVmPSIvb2Zmc2l0ZS5hc3B4P2Rpc2NsYWltZXI9MTQwOSZhbXA7YnV0dG9uPXllcyZhbXA7dXJsPWh0dHA6Ly93d3cuZXRmdHJlbmRzLmNvbS8yMDEzLzExL3NlZHVjZWQtYnktc29sYXItZXRmcy8iIHRhcmdldD0iX2JsYW5rIj5WaWV3IGFydGljbGUgwrs8L2E+wqA8L3A+PGhyIHN0eWxlPSJib3JkZXI6IDFweCBkYXNoZWQ7IHdpZHRoOiAxMDBweDsgY29sb3I6IHJnYigyNDQsIDIwOSwgMTczKTsiIC8+PGJyIC8+PC9UZWFzZXI+PC9wPjxhIGhyZWY9Ii9tYXJrZXQtdmVjdG9ycy9lcXVpdHktZXRmcy9oYXJkLWFzc2V0cy1NYWtpbmctTmV3cy9FVEYtVHJlbmRzLS1Hb2xkbWFuLUJ1b3lzLVN0ZWVsLUVURi8iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iZG9jcyBsaW5rIj5FVEYgVHJlbmRzOiBHb2xkbWFuIEJ1b3lzIFN0ZWVsIEVURjwvYT48cCBjbGFzcz0iZGVzY3JpcHRpb25fdGV4dCByZWNlbnQiPjxUZWFzZXI+PHA+PGJyIC8+MTEvMDQvMTM6IFRvZGQgU2hyaWJlciBkaXNjdXNzZXMgPHN0cm9uZz48YSB0aXRsZT0iU0xYIiBocmVmPSIvbWFya2V0LXZlY3RvcnMvZXF1aXR5LWV0ZnMvc2x4L3NuYXBzaG90LyIgdGFyZ2V0PSJfYmxhbmsiPlNMWDwvYT7CoDwvc3Ryb25nPmluIHRoZSBjb250ZXh0IG9mIEdvbGRtYW4gU2FjaOKAmXMgcmVjZW50IHVwZ3JhZGUgb2YgaXRzIHZpZXcgb24gdGhlIHN0ZWVsIHNlY3RvciBmcm9tIGNhdXRpb3VzIHRvIG5ldXRyYWwuIEFkZGl0aW9uYWxseSwgaGUgd3JpdGVzLCDigJxOb3Qgb25seSBoYXZlIG1hdGVyaWFscyBzdG9ja3MgYW5kIEVURnMgYmVlbiByYWxseWluZyByZWNlbnRseSwgYnV0IGhpc3Rvcnkgc2hvd3MgdGhpcyBpcyB0aGUgaWRlYWwgdGltZSBvZiB0aGUgeWVhciBpbiB3aGljaCB0byBvd24gbWF0ZXJpYWxzIG5hbWVzLuKAnTxiciAvPjxhIHRpdGxlPSJWaWV3IGFydGljbGUiIGhyZWY9Ii9vZmZzaXRlLmFzcHg/ZGlzY2xhaW1lcj0xNDA5JmFtcDtidXR0b249eWVzJmFtcDt1cmw9aHR0cDovL3d3dy5ldGZ0cmVuZHMuY29tLzIwMTMvMTEvZ29sZG1hbi1idW95cy1zdGVlbC1ldGYvIiB0YXJnZXQ9Il9ibGFuayI+VmlldyBhcnRpY2xlIMK7PC9hPsKgPC9wPjxociBzdHlsZT0iYm9yZGVyOiAxcHggZGFzaGVkOyB3aWR0aDogMTAwcHg7IGNvbG9yOiByZ2IoMjQ0LCAyMDksIDE3Myk7IiAvPjxiciAvPjwvVGVhc2VyPjwvcD48YSBocmVmPSIvbWFya2V0LXZlY3RvcnMvZXF1aXR5LWV0ZnMvaGFyZC1hc3NldHMtTWFraW5nLU5ld3MvRVRGLVRyZW5kcy0tQ2FwdHVyZS10aGUtVS1TLS1PaWwtQm9vbS13aXRoLXRoZS1VbmNvbnZlbnRpb25hbC1FVEYvIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImRvY3MgbGluayI+RVRGIFRyZW5kczogQ2FwdHVyZSB0aGUgVS5TLiBPaWwgQm9vbSB3aXRoIHRoZSBVbmNvbnZlbnRpb25hbCBFVEY8L2E+PHAgY2xhc3M9ImRlc2NyaXB0aW9uX3RleHQgcmVjZW50Ij48VGVhc2VyPjxwPjxiciAvPjEwLzMxLzEzOiBUb20gTHlkb24gY2hvb3NlcyA8c3Ryb25nPjxhIHRpdGxlPSJGUkFLIiBocmVmPSIvbWFya2V0LXZlY3RvcnMvZXF1aXR5LWV0ZnMvRlJBSy9zbmFwc2hvdC8iIHRhcmdldD0iX2JsYW5rIj5GUkFLPC9hPsKgPC9zdHJvbmc+YXMg4oCcRVRGIG9mIHRoZSBXZWVr4oCdIGZvciBDaHVjayBKYWZmZeKAmXMgTW9uZXlMaWZlIFNob3cgb24gTWFya2V0d2F0Y2guIOKAnFRoZSBzcGVjaWFsaXplZCBFVEYgaGVscHMgaW52ZXN0b3JzIGdhaW4gZXhwb3N1cmUgdG8gdGhlIFUuUy4gb2lsIGJvb20gYW5kIGV4cGFuc2lvbiBpbnRvIHNoYWxlIG9pbCBwcm9kdWN0aW9uLuKAnTxiciAvPjxhIHRpdGxlPSJQb2RjYXN0IiBocmVmPSIvb2Zmc2l0ZS5hc3B4P2Rpc2NsYWltZXI9MTQwOSZhbXA7YnV0dG9uPXllcyZhbXA7dXJsPWh0dHA6Ly93d3cuZXRmdHJlbmRzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvcG9kY2FzdHMvMTAzMTEzTW9uZXlMaWZlUG9kY2FzdC5tcDMiIHRhcmdldD0iX2JsYW5rIj5MaXN0ZW4gdG8gcG9kY2FzdCAgwrs8L2E+wqA8L3A+PGhyIHN0eWxlPSJib3JkZXI6IDFweCBkYXNoZWQ7IHdpZHRoOiAxMDBweDsgY29sb3I6IHJnYigyNDQsIDIwOSwgMTczKTsiIC8+PGJyIC8+PC9UZWFzZXI+PC9wPjxhIGhyZWY9Ii9tYXJrZXQtdmVjdG9ycy9lcXVpdHktZXRmcy9oYXJkLWFzc2V0cy1NYWtpbmctTmV3cy9FVEYtVHJlbmRzLS1Tb2xhci1FVEZzLURhenpsZS1pbi10aGUtU2Vjb25kLVF1YXJ0ZXIvIiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImRvY3MgbGluayI+RVRGIFRyZW5kczogU29sYXIgRVRGcyBEYXp6bGUgaW4gdGhlIFNlY29uZCBRdWFydGVyPC9hPjxwIGNsYXNzPSJkZXNjcmlwdGlvbl90ZXh0IHJlY2VudCI+PFRlYXNlcj48cD48YnIgLz42LzI4LzEzOiA8ZW0+RVRGIFRyZW5kczwvZW0+IGV4YW1pbmVzIG9wcG9ydHVuaXRpZXMgaW4gdGhlIHJlbmV3YWJsZSBlbmVyZ3kgc3BhY2UgYW5kIGhpZ2hsaWdodHMgPHN0cm9uZz48YSB0aXRsZT0iS1dUIiBocmVmPSIvbWFya2V0LXZlY3RvcnMvZXF1aXR5LWV0ZnMva3d0L3NuYXBzaG90LyIgdGFyZ2V0PSJfYmxhbmsiPktXVCdzPC9hPsKgPC9zdHJvbmc+bm90YWJsZSBzZWNvbmQgcXVhcnRlci4g4oCcU29sYXIgRVRGcyBhcmUgZ2VuZXJhdGluZyBoaWdoIHJldHVybnMgYXMgdGhlIGluZHVzdHJ5IG91dHNoaW5lcyBleHBlY3RhdGlvbnMgdGhhdCBhIHN0cmluZyBvZiBuZWdhdGl2ZSBmYWN0b3JzIHdvdWxkIHdlaWdoIG9uIHNvbGFyIHN0b2Nrcy7igJ08YnIgLz48YSB0aXRsZT0iVmlldyBhcnRpY2xlIiBocmVmPSIvb2Zmc2l0ZS5hc3B4P2Rpc2NsYWltZXI9MTQwOSZhbXA7YnV0dG9uPXllcyZhbXA7dXJsPWh0dHA6Ly93d3cuZXRmdHJlbmRzLmNvbS8yMDEzLzA2L3NvbGFyLWV0ZnMtZGF6emxlLWluLXRoZS1zZWNvbmQtcXVhcnRlci8iIHRhcmdldD0iX2JsYW5rIj5WaWV3IGFydGljbGUgwrs8L2E+wqA8L3A+PGhyIHN0eWxlPSJib3JkZXI6IDFweCBkYXNoZWQ7IHdpZHRoOiAxMDBweDsgY29sb3I6IHJnYigyNDQsIDIwOSwgMTczKTsiIC8+PGJyIC8+PC9UZWFzZXI+PC9wPjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9ImNsZWFyIj48L2Rpdj5kAgUPZBYCAgEPZBYCAgMPZBYCZg9kFgICAw9kFgJmD2QWAmYPZBYEZg9kFgRmDxYCHwEFDU90aGVyIE1WIEVURnNkAgEPFgIfBAIEFghmD2QWBAIBDw8WCB4IQ3NzQ2xhc3MFDWFfbmFtZSB5ZWxsb3cfAQUDR0RYHwIFKS9tYXJrZXQtdmVjdG9ycy9lcXVpdHktZXRmcy9nZHgvc25hcHNob3QvHgRfIVNCAgJkZAIDDw8WBB8BBQ9Hb2xkIE1pbmVycyBFVEYfAgUpL21hcmtldC12ZWN0b3JzL2VxdWl0eS1ldGZzL2dkeC9zbmFwc2hvdC9kZAICD2QWBAIBDw8WCB8JBQ1hX25hbWUgeWVsbG93HwEFA0hBUB8CBSkvbWFya2V0LXZlY3RvcnMvZXF1aXR5LWV0ZnMvaGFwL3NuYXBzaG90Lx8KAgJkZAIDDw8WBB8BBR1SVkUgSGFyZCBBc3NldHMgUHJvZHVjZXJzIEVURh8CBSkvbWFya2V0LXZlY3RvcnMvZXF1aXR5LWV0ZnMvaGFwL3NuYXBzaG90L2RkAgQPZBYEAgEPDxYIHwkFDWFfbmFtZSB5ZWxsb3cfAQUDS09MHwIFKS9tYXJrZXQtdmVjdG9ycy9lcXVpdHktZXRmcy9rb2wvc25hcHNob3QvHwoCAmRkAgMPDxYEHwEFCENvYWwgRVRGHwIFKS9tYXJrZXQtdmVjdG9ycy9lcXVpdHktZXRmcy9rb2wvc25hcHNob3QvZGQCBg9kFgQCAQ8PFggfCQUNYV9uYW1lIHllbGxvdx8BBQNPSUgfAgUpL21hcmtldC12ZWN0b3JzL2VxdWl0eS1ldGZzL29paC9zbmFwc2hvdC8fCgICZGQCAw8PFgQfAQUQT2lsIFNlcnZpY2VzIEVURh8CBSkvbWFya2V0LXZlY3RvcnMvZXF1aXR5LWV0ZnMvb2loL3NuYXBzaG90L2RkAgEPZBYCAgEPEGRkFgBkAgMPZBYCZg9kFgYCAQ9kFgYCAQ8WAh8BBRRJbmRpdmlkdWFsIEludmVzdG9yc2QCAw8WAh8BBRpTdWJzY3JpYmUgdG8gZW1haWwgdXBkYXRlc2QCBQ8PFgIfAQUNU3Vic2NyaWJlIG5vd2RkAgMPFgIfAQUXRmluYW5jaWFsIFByb2Zlc3Npb25hbHNkAgUPZBYCAgEPPCsACgEADxYCHhNWaXNpYmxlV2hlbkxvZ2dlZEluZ2QWAmYPZBYGAgEPFgIfAQVXU3Vic2NyaWJlIHRvIGVtYWlsIHVwZGF0ZXMsIG9yIA0KcGFzc3dvcmQgcHJvdGVjdGVkIGZpbmFuY2lhbCBwcm9mZXNzaW9uYWwtb25seSBjb250ZW50ZAITD2QWAmYPFgIfAQUSTmV3PyBSZWdpc3RlciBIZXJlZAIVD2QWAmYPFgIfAQUPRm9yZ290IFBhc3N3b3JkZAIFD2QWAgICD2QWAmYPZBYCAgEPFgIfAwUQZHJvcHpvbmUgUEJDbGVhchYCAgMPFgIfBAIBFgJmD2QWAgIBDxYEHwMFCVBCVmlld2luZx8FBQt3aWR0aDoxMDAlOxYCAgEPFgQfBgUBMB8HBSQwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAWAgIDDxYCHwRmZAIBD2QWAgIBD2QWAgIBDxYCHwEFsjY8b3B0aW9uIHZhbHVlPScnPlNlbGVjdCBBbm90aGVyIEZ1bmQ8L29wdGlvbj48b3B0Z3JvdXAgbGFiZWw9JyZuYnNwOyc+DQo8b3B0Z3JvdXAgbGFiZWw9J01VVFVBTCBGVU5EUyc+PG9wdGdyb3VwIGxhYmVsPSctLS0tLS0tLS0tLS0tLS0tLS0tJz48L29wdGdyb3VwPjxvcHRpb24gdmFsdWU9Jy9tdXR1YWwtZnVuZHMvY20tY29tbW9kaXR5LWluZGV4LWZ1bmQvY2xhc3MtYS9jbWNheC8nPkNNIENvbW1vZGl0eSBJbmRleCBGdW5kIChDTUNBWCk8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvbXV0dWFsLWZ1bmRzL2VtZXJnaW5nLW1hcmtldHMtZnVuZC9jbGFzcy1hL2diZmF4Lyc+RW1lcmdpbmcgTWFya2V0cyBGdW5kIChHQkZBWCk8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvbXV0dWFsLWZ1bmRzL2dsb2JhbC1oYXJkLWFzc2V0cy1mdW5kL2NsYXNzLWEvZ2hhYXgvJz5HbG9iYWwgSGFyZCBBc3NldHMgRnVuZCAoR0hBQVgpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL211dHVhbC1mdW5kcy9pbnRlcm5hdGlvbmFsLWludmVzdG9ycy1nb2xkLWZ1bmQvY2xhc3MtYS9pbml2eC8nPkludGVybmF0aW9uYWwgSW52ZXN0b3JzIEdvbGQgRnVuZCAoSU5JVlgpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL211dHVhbC1mdW5kcy9sb25nLXNob3J0LWVxdWl0eS1mdW5kL2NsYXNzLWEvbHNuYXgvJz5Mb25nL1Nob3J0IEVxdWl0eSBGdW5kIChMU05BWCk8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvbXV0dWFsLWZ1bmRzL211bHRpLW1hbmFnZXItYWx0ZXJuYXRpdmVzLWZ1bmQvY2xhc3MtYS92bWFheC8nPk11bHRpLU1hbmFnZXIgQWx0ZXJuYXRpdmVzIEZ1bmQgKFZNQUFYKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9tdXR1YWwtZnVuZHMvdW5jb25zdHJhaW5lZC1lbWVyZ2luZy1tYXJrZXRzLWJvbmQtZnVuZC9jbGFzcy1hL2VtYmF4Lyc+VW5jb25zdHJhaW5lZCBFbWVyZ2luZyBNYXJrZXRzIEJvbmQgRnVuZCAoRU1CQVgpPC9vcHRpb24+PG9wdGdyb3VwIGxhYmVsPScmbmJzcDsnPg0KPG9wdGdyb3VwIGxhYmVsPSdJTlNVUkFOQ0UgRlVORFMnPjxvcHRncm91cCBsYWJlbD0nLS0tLS0tLS0tLS0tLS0tLS0tLSc+PC9vcHRncm91cD48b3B0aW9uIHZhbHVlPScvSW5zdXJhbmNlRnVuZHMvRW1lcmdpbmdNYXJrZXRzLmFzcHgnPlZJUCBFbWVyZ2luZyBNYXJrZXRzIEZ1bmQ8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvSW5zdXJhbmNlRnVuZHMvR29sZC5hc3B4Jz5WSVAgR2xvYmFsIEdvbGQgRnVuZDwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9JbnN1cmFuY2VGdW5kcy9IYXJkQXNzZXRzLmFzcHgnPlZJUCBHbG9iYWwgSGFyZCBBc3NldHMgRnVuZDwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9JbnN1cmFuY2VGdW5kcy9NdWx0aU1hbmFnZXJBbHRlcm5hdGl2ZXMuYXNweCc+VklQIE11bHRpLU1hbmFnZXIgQWx0ZXJuYXRpdmVzIEZ1bmQ8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvSW5zdXJhbmNlRnVuZHMvQm9uZC5hc3B4Jz5WSVAgVW5jb25zdHJhaW5lZCBFbWVyZ2luZyBNYXJrZXRzIEJvbmQgRnVuZDwvb3B0aW9uPjxvcHRncm91cCBsYWJlbD0nJm5ic3A7Jz4NCjxvcHRncm91cCBsYWJlbD0nTUFSS0VUIFZFQ1RPUlMgQlJPQUQtQkFTRUQgVS5TLiBFVEZzICc+PG9wdGdyb3VwIGxhYmVsPSctLS0tLS0tLS0tLS0tLS0nPjwvb3B0Z3JvdXA+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL01PQVQuYXNweCc+V2lkZSBNb2F0IEVURiAoTU9BVCk8L29wdGlvbj48b3B0Z3JvdXAgbGFiZWw9JyZuYnNwOyc+DQo8b3B0Z3JvdXAgbGFiZWw9J01BUktFVCBWRUNUT1JTIEhBUkQgQVNTRVRTIEVURnMnPjxvcHRncm91cCBsYWJlbD0nLS0tLS0tLS0tLS0tLS0tJz48L29wdGdyb3VwPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9NT08uYXNweCc+QWdyaWJ1c2luZXNzIEVURiAoTU9PKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9LT0wuYXNweCc+Q29hbCBFVEYgKEtPTCk8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvZnVuZHMvR0VYLmFzcHgnPkdsb2JhbCBBbHRlcm5hdGl2ZSBFbmVyZ3kgRVRGIChHRVgpIDwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9HRFguYXNweCc+R29sZCBNaW5lcnMgRVRGIChHRFgpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL0dEWEouYXNweCc+SnVuaW9yIEdvbGQgTWluZXJzIEVURiAoR0RYSik8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvZnVuZHMvT0lILmFzcHgnPk9pbCBTZXJ2aWNlcyBFVEYgKE9JSCk8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvZnVuZHMvUkVNWC5hc3B4Jz5SYXJlIEVhcnRoL1N0cmF0ZWdpYyBNZXRhbHMgRVRGIChSRU1YKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9IQVAuYXNweCc+UlZFIEhhcmQgQXNzZXRzIFByb2R1Y2VycyBFVEYgKEhBUCk8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvZnVuZHMvS1dULmFzcHgnPlNvbGFyIEVuZXJneSBFVEYgKEtXVCk8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvZnVuZHMvU0xYLmFzcHgnPlN0ZWVsIEVURiAoU0xYKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9GUkFLLmFzcHgnPlVuY29udmVudGlvbmFsIE9pbCAmIEdhcyBFVEYgKEZSQUspPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL05MUi5hc3B4Jz5VcmFuaXVtK051Y2xlYXIgRW5lcmd5IEVURiAoTkxSKTwvb3B0aW9uPjxvcHRncm91cCBsYWJlbD0nJm5ic3A7Jz4NCjxvcHRncm91cCBsYWJlbD0nTUFSS0VUIFZFQ1RPUlMgSU5URVJOQVRJT05BTCBFVEZzJz48b3B0Z3JvdXAgbGFiZWw9Jy0tLS0tLS0tLS0tLS0tLS0tLS0nPjwvb3B0Z3JvdXA+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL0FGSy5hc3B4Jz5BZnJpY2EgSW5kZXggRVRGIChBRkspPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL0JSRi5hc3B4Jz5CcmF6aWwgU21hbGwtQ2FwIEVURiAoQlJGKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9QRUsuYXNweCc+Q2hpbmFBTUMgQS1TaGFyZSBFVEYgKFBFSyk8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvZnVuZHMvQ09MWC5hc3B4Jz5Db2xvbWJpYSBFVEYgKENPTFgpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL0VHUFQuYXNweCc+RWd5cHQgSW5kZXggRVRGIChFR1BUKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9HRVJKLmFzcHgnPkdlcm1hbnkgU21hbGwtQ2FwIEVURiAoR0VSSik8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvZnVuZHMvTUVTLmFzcHgnPkd1bGYgU3RhdGVzIEluZGV4IEVURiAoTUVTKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9TQ0lGLmFzcHgnPkluZGlhIFNtYWxsLUNhcCBJbmRleCBFVEYgKFNDSUYpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL0lEWC5hc3B4Jz5JbmRvbmVzaWEgSW5kZXggRVRGIChJRFgpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL0lEWEouYXNweCc+SW5kb25lc2lhIFNtYWxsLUNhcCBJbmRleCBFVEYgKElEWEopPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL21hcmtldC12ZWN0b3JzL2VxdWl0eS1ldGZzL2lzcmEvU25hcHNob3QvJz5Jc3JhZWwgRVRGIChJU1JBKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9MQVRNLmFzcHgnPkxhdGluIEFtZXJpY2EgU21hbGwtQ2FwIEluZGV4IEVURiAoTEFUTSk8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvZnVuZHMvcWVtLmFzcHgnPk1TQ0kgRW1lcmdpbmcgTWFya2V0cyBRdWFsaXR5IEVURiAoUUVNKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9xZGVtLmFzcHgnPk1TQ0kgRW1lcmdpbmcgTWFya2V0cyBRdWFsaXR5IERpdmlkZW5kIEVURiAoUURFTSk8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvZnVuZHMvcXh1cy5hc3B4Jz5NU0NJIEludGVybmF0aW9uYWwgUXVhbGl0eSBFVEYgKFFYVVMpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL3FkeHUuYXNweCc+TVNDSSBJbnRlcm5hdGlvbmFsIFF1YWxpdHkgRGl2aWRlbmQgRVRGIChRRFhVKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9QTE5ELmFzcHgnPlBvbGFuZCBFVEYgKFBMTkQpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL1JTWC5hc3B4Jz5SdXNzaWEgRVRGIChSU1gpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL1JTWEouYXNweCc+UnVzc2lhIFNtYWxsLUNhcCBFVEYgKFJTWEopPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL1ZOTS5hc3B4Jz5WaWV0bmFtIEVURiAoVk5NKTwvb3B0aW9uPjxvcHRncm91cCBsYWJlbD0nJm5ic3A7Jz4NCjxvcHRncm91cCBsYWJlbD0nTUFSS0VUIFZFQ1RPUlMgSU5EVVNUUlkgRVRGcyc+PG9wdGdyb3VwIGxhYmVsPSctLS0tLS0tLS0tLS0tLS0nPjwvb3B0Z3JvdXA+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL1JLSC5hc3B4Jz5CYW5rIGFuZCBCcm9rZXJhZ2UgRVRGIChSS0gpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL0JCSC5hc3B4Jz5CaW90ZWNoIEVURiAoQkJIKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9FVlguYXNweCc+RW52aXJvbm1lbnRhbCBTZXJ2aWNlcyBFVEYgKEVWWCk8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvZnVuZHMvQkpLLmFzcHgnPkdhbWluZyBFVEYgKEJKSyk8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvZnVuZHMvUFBILmFzcHgnPlBoYXJtYWNldXRpY2FsIEVURiAoUFBIKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9SVEguYXNweCc+UmV0YWlsIEVURiAoUlRIKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9TTUguYXNweCc+U2VtaWNvbmR1Y3RvciBFVEYgKFNNSCk8L29wdGlvbj48b3B0Z3JvdXAgbGFiZWw9JyZuYnNwOyc+DQo8b3B0Z3JvdXAgbGFiZWw9J01BUktFVCBWRUNUT1JTIElOQ09NRSBFVEZzJz48b3B0Z3JvdXAgbGFiZWw9Jy0tLS0tLS0tLS0tLS0tLS0tLS0nPjwvb3B0Z3JvdXA+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL0JJWkQuYXNweCc+QkRDIEluY29tZSBFVEYgKEJJWkQpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL0VNQUcuYXNweCc+RW1lcmdpbmcgTWFya2V0cyBBZ2dyZWdhdGUgQm9uZCBFVEYgKEVNQUcpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL0hZRU0uYXNweCc+RW1lcmdpbmcgTWFya2V0cyBIaWdoIFlpZWxkIEJvbmQgRVRGIChIWUVNKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9FTUxDLmFzcHgnPkVtZXJnaW5nIE1hcmtldHMgTG9jYWwgQ3VycmVuY3kgQm9uZCBFVEYgKEVNTEMpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL0FOR0wuYXNweCc+RmFsbGVuIEFuZ2VsIEhpZ2ggWWllbGQgQm9uZCBFVEYgKEFOR0wpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL0lIWS5hc3B4Jz5JbnRlcm5hdGlvbmFsIEhpZ2ggWWllbGQgQm9uZCBFVEYgKElIWSk8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvZnVuZHMvRkxUUi5hc3B4Jz5JbnZlc3RtZW50IEdyYWRlIEZsb2F0aW5nIFJhdGUgQm9uZCBFVEYgKEZMVFIpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL01PUlQuYXNweCc+TW9ydGdhZ2UgUkVJVCBJbmNvbWUgRVRGIChNT1JUKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9QRlhGLmFzcHgnPlByZWZlcnJlZCBTZWN1cml0aWVzIGV4IEZpbmFuY2lhbHMgRVRGIChQRlhGKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9DSExDLmFzcHgnPlJlbm1pbmJpIEJvbmQgRVRGIChDSExDKTwvb3B0aW9uPjxvcHRpb24gdmFsdWU9Jy9mdW5kcy9USEhZLmFzcHgnPlRyZWFzdXJ5LUhlZGdlZCBIaWdoIFlpZWxkIEJvbmQgRVRGIChUSEhZKTwvb3B0aW9uPjxvcHRncm91cCBsYWJlbD0nJm5ic3A7Jz4NCjxvcHRncm91cCBsYWJlbD0nTUFSS0VUIFZFQ1RPUlMgTVVOQ0lQQUwgSU5DT01FIEVURnMnPjxvcHRncm91cCBsYWJlbD0nLS0tLS0tLS0tLS0tLS0tLS0tLSc+PC9vcHRncm91cD48b3B0aW9uIHZhbHVlPScvZnVuZHMvWE1QVC5hc3B4Jz5DRUYgTXVuaWNpcGFsIEluY29tZSBFVEYgKFhNUFQpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL0hZRC5hc3B4Jz5IaWdoLVlpZWxkIE11bmljaXBhbCBJbmRleCBFVEYgKEhZRCk8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvZnVuZHMvSVRNLmFzcHgnPkludGVybWVkaWF0ZSBNdW5pY2lwYWwgSW5kZXggRVRGIChJVE0pPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL01MTi5hc3B4Jz5Mb25nIE11bmljaXBhbCBJbmRleCBFVEYgKE1MTik8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvZnVuZHMvUFJCLmFzcHgnPlByZS1SZWZ1bmRlZCBNdW5pY2lwYWwgQm9uZCBFVEYgKFBSQik8L29wdGlvbj48b3B0aW9uIHZhbHVlPScvZnVuZHMvU0hZRC5hc3B4Jz5TaG9ydC1IaWdoIFlpZWxkIE11bmljaXBhbCBJbmRleCBFVEYgKFNIWUQpPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0nL2Z1bmRzL1NNQi5hc3B4Jz5TaG9ydCBNdW5pY2lwYWwgSW5kZXggRVRGIChTTUIpPC9vcHRpb24+PG9wdGdyb3VwIGxhYmVsPScmbmJzcDsnPg0KPG9wdGdyb3VwIGxhYmVsPSdNQVJLRVQgVkVDVE9SUyBFVE5zJz48b3B0Z3JvdXAgbGFiZWw9Jy0tLS0tLS0tLS0tLS0tLSc+PC9vcHRncm91cD48b3B0aW9uIHZhbHVlPSdodHRwOi8vd3d3Lm1hcmtldHZlY3RvcnNldG5zLmNvbS9wcm9kdWN0cy5hc3B4P2lkPTcyJz5DaGluZXNlIFJlbm1pbmJpL1VTRCBFVE48L29wdGlvbj48b3B0aW9uIHZhbHVlPSdodHRwOi8vd3d3Lm1hcmtldHZlY3RvcnNldG5zLmNvbS9wcm9kdWN0cy5hc3B4P2lkPTc0Jz5JbmRpYW4gUnVwZWUvVVNEIEVUTjwvb3B0aW9uPjxvcHRpb24gdmFsdWU9J2h0dHA6Ly93d3cubWFya2V0dmVjdG9yc2V0bnMuY29tL3Byb2R1Y3RzLmFzcHg/aWQ9NzMnPkRvdWJsZSBMb25nIEV1cm8gRVROPC9vcHRpb24+PG9wdGlvbiB2YWx1ZT0naHR0cDovL3d3dy5tYXJrZXR2ZWN0b3JzZXRucy5jb20vcHJvZHVjdHMuYXNweD9pZD03NSc+RG91YmxlIFNob3J0IEV1cm8gRVROPC9vcHRpb24+PC9vcHRncm91cD4NCmQCAg8WAh8BBRZKdW5pb3IgR29sZCBNaW5lcnMgRVRGZAIDDw8WBh8BBQRHRFhKHwkFDXRpY2tlciB5ZWxsb3cfCgICZGQCBA9kFgICAQ9kFgICAg9kFgJmD2QWAgIBDxYCHwMFEGRyb3B6b25lIFBCQ2xlYXIWAgIDDxYCHwQCARYCZg9kFgICAQ8WBB8DBQlQQlZpZXdpbmcfBQULd2lkdGg6MTAwJTsWAgIBDxYEHwYFATAfBwUkMDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDAwMDAwMDAwFgICAw8WAh8EAgQWAgIDD2QWAgIBD2QWAgIDD2QWAmYPZBYCAgMPZBYCZg9kFgJmD2QWAmYPZBYCAgMPEGQQFQUfRm9yZWlnbiBJbnZlc3RvciBJbmZvcm1hdGlvbiDCuwJVSwdHZXJtYW55C1N3aXR6ZXJsYW5kB0F1c3RyaWEVBQEwPi9tYXJrZXQtdmVjdG9ycy9lcXVpdHktZXRmcy9nZHhqL2RvY3VtZW50cy8/dGFiPXVrI2ZvcmVpZ24tdGF4Pi9tYXJrZXQtdmVjdG9ycy9lcXVpdHktZXRmcy9nZHhqL2RvY3VtZW50cy8/dGFiPWRlI2ZvcmVpZ24tdGF4Pi9tYXJrZXQtdmVjdG9ycy9lcXVpdHktZXRmcy9nZHhqL2RvY3VtZW50cy8/dGFiPWNoI2ZvcmVpZ24tdGF4Pi9tYXJrZXQtdmVjdG9ycy9lcXVpdHktZXRmcy9nZHhqL2RvY3VtZW50cy8/dGFiPWF0I2ZvcmVpZ24tdGF4FCsDBWdnZ2dnZGQCBQ9kFgRmDxYCHwQCBxYOZg9kFgJmDxUEBHBhc3MqL21hcmtldC12ZWN0b3JzL2VxdWl0eS1ldGZzL2dkeGovc25hcHNob3QvCHNuYXBzaG90CFNuYXBzaG90ZAIBD2QWAmYPFQQEcGFzczsvbWFya2V0LXZlY3RvcnMvZXF1aXR5LWV0ZnMvZ2R4ai9wZXJmb3JtYW5jZS1kaXN0cmlidXRpb25zLxlwZXJmb3JtYW5jZS9kaXN0cmlidXRpb25zGVBlcmZvcm1hbmNlL0Rpc3RyaWJ1dGlvbnNkAgIPZBYCZg8VBAZhY3RpdmUqL21hcmtldC12ZWN0b3JzL2VxdWl0eS1ldGZzL2dkeGovaG9sZGluZ3MvCGhvbGRpbmdzCEhvbGRpbmdzZAIDD2QWAmYPFQQEcGFzczUvbWFya2V0LXZlY3RvcnMvZXF1aXR5LWV0ZnMvZ2R4ai9wb3J0Zm9saW8tYW5hbHl0aWNzLxNwb3J0Zm9saW9fYW5hbHl0aWNzE1BvcnRmb2xpbyBBbmFseXRpY3NkAgQPZBYCZg8VBARwYXNzNC9tYXJrZXQtdmVjdG9ycy9lcXVpdHktZXRmcy9nZHhqL1NlY3VyaXRpZXMtTGVuZGluZy8Sc2VjdXJpdGllc19sZW5kaW5nElNlY3VyaXRpZXMgTGVuZGluZ2QCBQ9kFgJmDxUEBHBhc3MrL21hcmtldC12ZWN0b3JzL2VxdWl0eS1ldGZzL2dkeGovZG9jdW1lbnRzLwlkb2N1bWVudHMJRG9jdW1lbnRzZAIGD2QWAmYPFQQEcGFzcycvbWFya2V0LXZlY3RvcnMvZXF1aXR5LWV0ZnMvZ2R4ai9pbmRleC8FaW5kZXgFSW5kZXhkAgEPZBYCAgIPZBYCZg9kFgICAQ8WAh8DBRBkcm9wem9uZSBQQkNsZWFyFgICAw8WAh8EAgEWAmYPZBYCAgEPFgQfAwUJUEJWaWV3aW5nHwUFC3dpZHRoOjEwMCU7FgICAQ8WBB8GBQEwHwcFJDAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMBYCAgMPFgIfBAICZAIdDxYCHwEFLzxhIGhyZWY9Ii9hYm91dC12YW4tZWNrL2NvbnRhY3QtdXMiPkNPTlRBQ1Q8L2E+ZAIjDw8WAh8BBRo8YSBocmVmPSIvbGVnYWwiPkxlZ2FsPC9hPmRkAiUPZBYCAgEPZBYCAgEPZBYCAgIPZBYCZg9kFgICAQ8WAh8DBRBkcm9wem9uZSBQQkNsZWFyFgICAw8WAh8EAgEWAmYPZBYCAgEPFgQfAwUJUEJWaWV3aW5nHwUFC3dpZHRoOjEwMCU7FgICAQ8WBB8GBQEwHwcFJDAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMBYCAgMPFgIfBAICZAInDxYCHwEFSDxwPsKpIDIwMTQmIzE2MDtWYW4gRWNrIFNlY3VyaXRpZXMgQ29ycG9yYXRpb24uIEFsbCByaWdodHMgcmVzZXJ2ZWQuPC9wPmQCBQ8WAh8BBfQFPHNjcmlwdCBsYW5ndWFnZT0iamF2YXNjcmlwdCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCiQoZG9jdW1lbnQpLnJlYWR5KGZ1bmN0aW9uKCkgew0KdmFyIGFuY2hvclRhZ3MgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgiYSIpOw0KdmFyIGludGVybmFsVHJhY2sgPSBbImxpbmtpdC5hc3B4IiwgInNob3djb250ZW50LmFzcHgiLCAiZG93bmxvYWRhc3NldC5hc3B4Il07DQpmb3IgKHZhciBpID0gMDsgaSA8IGFuY2hvclRhZ3MubGVuZ3RoOyBpKyspIHsNCmlmIChhbmNob3JUYWdzW2ldLmhyZWYuaW5kZXhPZihpbnRlcm5hbFRyYWNrWzBdKSAhPSAtMSkgew0KdmFyIHRtcCA9IGFuY2hvclRhZ3NbaV0uZ2V0QXR0cmlidXRlKCJvbmNsaWNrIik7DQppZiAodG1wID09IG51bGwpIHsNCi8vYWxlcnQoIGFuY2hvclRhZ3NbaV0uaHJlZik7DQphbmNob3JUYWdzW2ldLm9uY2xpY2sgPSBuZXcgRnVuY3Rpb24oIkFkZExpbmtUb0dBVHJhY2tlcih0aGlzKSIpOw0KfQ0KfQ0KfQ0KfSk7DQpmdW5jdGlvbiBBZGRMaW5rVG9HQVRyYWNrZXIobGluaykgew0KdmFyIHBhZ2VUcmFja2VyID0gX2dhdC5fZ2V0VHJhY2tlcigiVUEtNjQ0MjEyMC0xIik7DQp2YXIgcGFnZVVybCA9ICIvZ3RyYWNrLyIgKyBsaW5rOw0KcGFnZVRyYWNrZXIuX3NldEN1c3RvbVZhcigxLCAnTGFuZ3VhZ2UnLCAnZW4tVVMnLCAzKTtwYWdlVHJhY2tlci5fdHJhY2tQYWdldmlldyhwYWdlVXJsKTsNCi8vYWxlcnQocGFnZVVybCk7DQp9Ow0KPC9zY3JpcHQ+ZBgPBXtjdGwwMCRjdGwwMCRjcGhNYWluJGNwaExlZnRDb2x1bW4kZHpMZWZ0Q29sdW1uJGNvbHVtbkRpc3BsYXkkY3RsMDAkY29udHJvbGNvbHVtbiRjdGwwMCRXaWRnZXRIb3N0JFdpZGdldEhvc3Rfd2lkZ2V0JFZpZXdTZXQPD2RmZAV7Y3RsMDAkY3RsMDAkY3BoTWFpbiRjcGhMZWZ0Q29sdW1uJGR6TGVmdENvbHVtbiRjb2x1bW5EaXNwbGF5JGN0bDAwJGNvbnRyb2xjb2x1bW4kY3RsMDUkV2lkZ2V0SG9zdCRXaWRnZXRIb3N0X3dpZGdldCRWaWV3U2V0Dw9kZmQFe2N0bDAwJGN0bDAwJGNwaE1haW4kY3BoTGVmdENvbHVtbiRkekxlZnRDb2x1bW4kY29sdW1uRGlzcGxheSRjdGwwMCRjb250cm9sY29sdW1uJGN0bDAxJFdpZGdldEhvc3QkV2lkZ2V0SG9zdF93aWRnZXQkVmlld1NldA8PZGZkBW9jdGwwMCRjdGwwMCRjcGhNYWluJGNwaE1haW4kZHpNYWluJGNvbHVtbkRpc3BsYXkkY3RsMDAkY29udHJvbGNvbHVtbiRjdGwwMCRXaWRnZXRIb3N0JFdpZGdldEhvc3Rfd2lkZ2V0JFZpZXdTZXQPD2RmZAV7Y3RsMDAkY3RsMDAkY3BoTWFpbiRjcGhMZWZ0Q29sdW1uJGR6TGVmdENvbHVtbiRjb2x1bW5EaXNwbGF5JGN0bDAwJGNvbnRyb2xjb2x1bW4kY3RsMDIkV2lkZ2V0SG9zdCRXaWRnZXRIb3N0X3dpZGdldCRWaWV3U2V0Dw9kZmQFb2N0bDAwJGN0bDAwJGNwaE1haW4kY3BoTWFpbiRkek1haW4kY29sdW1uRGlzcGxheSRjdGwwMCRjb250cm9sY29sdW1uJGN0bDAxJFdpZGdldEhvc3QkV2lkZ2V0SG9zdF93aWRnZXQkVmlld1NldA8PZGZkBXJjdGwwMCRjdGwwMCRjcGhNYWluJGNwaFRvcCRkekZ1bmRJbmZvJGNvbHVtbkRpc3BsYXkkY3RsMDAkY29udHJvbGNvbHVtbiRjdGwwMyRXaWRnZXRIb3N0JFdpZGdldEhvc3Rfd2lkZ2V0JFZpZXdTZXQPD2RmZAVyY3RsMDAkY3RsMDAkY3BoTWFpbiRjcGhUb3AkZHpGdW5kSW5mbyRjb2x1bW5EaXNwbGF5JGN0bDAwJGNvbnRyb2xjb2x1bW4kY3RsMDEkV2lkZ2V0SG9zdCRXaWRnZXRIb3N0X3dpZGdldCRWaWV3U2V0Dw9kZmQFe2N0bDAwJGN0bDAwJGNwaE1haW4kY3BoTGVmdENvbHVtbiRkekxlZnRDb2x1bW4kY29sdW1uRGlzcGxheSRjdGwwMCRjb250cm9sY29sdW1uJGN0bDA0JFdpZGdldEhvc3QkV2lkZ2V0SG9zdF93aWRnZXQkVmlld1NldA8PZGZkBXJjdGwwMCRjdGwwMCRjcGhNYWluJGNwaFRvcCRkekZ1bmRJbmZvJGNvbHVtbkRpc3BsYXkkY3RsMDAkY29udHJvbGNvbHVtbiRjdGwwMCRXaWRnZXRIb3N0JFdpZGdldEhvc3Rfd2lkZ2V0JFZpZXdTZXQPD2RmZAV4Y3RsMDAkY3RsMDAkY3BoRm9vdGVyJGNwaEludEZvb3RlciRkekZvb3RlciRjb2x1bW5EaXNwbGF5JGN0bDAwJGNvbnRyb2xjb2x1bW4kY3RsMDAkV2lkZ2V0SG9zdCRXaWRnZXRIb3N0X3dpZGdldCRWaWV3U2V0Dw9kZmQFe2N0bDAwJGN0bDAwJGNwaE1haW4kY3BoTGVmdENvbHVtbiRkekxlZnRDb2x1bW4kY29sdW1uRGlzcGxheSRjdGwwMCRjb250cm9sY29sdW1uJGN0bDAzJFdpZGdldEhvc3QkV2lkZ2V0SG9zdF93aWRnZXQkVmlld1NldA8PZGZkBXhjdGwwMCRjdGwwMCRjcGhGb290ZXIkY3BoSW50Rm9vdGVyJGR6Rm9vdGVyJGNvbHVtbkRpc3BsYXkkY3RsMDAkY29udHJvbGNvbHVtbiRjdGwwMSRXaWRnZXRIb3N0JFdpZGdldEhvc3Rfd2lkZ2V0JFZpZXdTZXQPD2RmZAV7Y3RsMDAkY3RsMDAkY3BoTWFpbiRjcGhMZWZ0Q29sdW1uJGR6TGVmdENvbHVtbiRjb2x1bW5EaXNwbGF5JGN0bDAwJGNvbnRyb2xjb2x1bW4kY3RsMDYkV2lkZ2V0SG9zdCRXaWRnZXRIb3N0X3dpZGdldCRWaWV3U2V0Dw9kZmQFcmN0bDAwJGN0bDAwJGNwaE1haW4kY3BoVG9wJGR6RnVuZEluZm8kY29sdW1uRGlzcGxheSRjdGwwMCRjb250cm9sY29sdW1uJGN0bDAyJFdpZGdldEhvc3QkV2lkZ2V0SG9zdF93aWRnZXQkVmlld1NldA8PZGZkOg+g7mw1shykFRWFo3mdVJ4h3Ck=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=5AQL9PD3XDyDoA5u5xT1ijt_mcNLsyp0kK_bn6CXveyS4ptFc-RI5EUtt97d3OANSG7lu1L9SbN6FltPg6dWwzu7uQA1&amp;t=634604244479085897" type="text/javascript"></script>
+
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-6442120-1");pageTracker._setCustomVar(1, 'Language', 'en-US', 3);pageTracker._trackPageview();} catch(err) {}</script><script type="text/javascript">var sLangID = "1033";</script><script language="javascript" type="text/javascript">
+function AddLinkToGATrackerPure(link) {
+var pageTracker = _gat._getTracker("UA-6442120-1");
+var pageUrl = link;
+pageTracker._setCustomVar(1, 'Language', 'en-US', 3);pageTracker._trackPageview(pageUrl);
+//alert(pageUrl);
+};
+</script><script type="text/javascript">$.ajax({url: '/js/munchkin.js',dataType: 'script',isLocal: true,cache: true,success: function() {Munchkin.init('410-XOR-673');}});</script>
+<script src="/ScriptResource.axd?d=9QSDVEXiCAy53fumd7_oVU7fUpsoxFgDIh6bdbrDl88o4IionWNFcn9xRlluvkzTYMH5wTVQ20hSg_EzizZMbWRcRWoHOucFgXx1cbxa5E4LvozafxDd5iW1x7F93Vg-bD5TvFyP7BrsKGdqwYZkqORfxTI1&amp;t=1fd0eb7a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=s9Ax6tyOXBBi8Vlae6THkL0ZfSXJTPM_HnpINExmXHPnCNic2dRINj7IBWOZscxxVrKM8-kEisNZJezAYK4g074Eo0ZwZ9ZW5BvaRPGXEbrGLCxEyJAqunzE_1yT8sjxop-KMefRG1LjdGoot7gTn0pMzH41&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=4ZNmjA2m6jI2ZIfjBp6NtjHXdceFOe-rGQLxccijJtqkBkWTXkK0PJCrHQkJBMm4Bl5aaVi2qdJ6ovL3bam_nqUEEUj8sumkjUThE7UjIt0XLa7Hs_SPq_Mz_dAz6nHJbwo1LHCBe2hkiMeOFjdX_bnfyqLKg21ugf6eISR15PpYZkNc0&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+<script src="/WorkArea/java/webkitFix.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDgKB2bW6CgK+hPiBBwKF6aWMAwKc9PapBgL0zIThDwL6/5q+BwLn7uqCCQLI9ZyfBQKuzqq/BgK6956nCQKDuqyLCgKb19vGCALH6JqWDAL72Z+qCdshI+T33zz0ZxIYBBFETPxxiEy1" />
+</div>
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$smMain', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls(['tctl00$ctl00$cphMain$cphLeftColumn$dzLeftColumn$updatepanel','tctl00$ctl00$cphMain$cphLeftColumn$dzLeftColumn2$updatepanel','tctl00$ctl00$cphMain$cphTop$dzFundInfo$updatepanel','tctl00$ctl00$cphMain$cphMain$dzMain$updatepanel','tctl00$ctl00$cphFooter$cphIntFooter$dzFooter$updatepanel','tctl00$ctl00$cphMain$cphLeftColumn$dzLeftColumn$columnDisplay$ctl00$controlcolumn$ctl00$WidgetHost$updatepanel','tctl00$ctl00$cphMain$cphLeftColumn$dzLeftColumn$columnDisplay$ctl00$controlcolumn$ctl01$WidgetHost$updatepanel','tctl00$ctl00$cphMain$cphLeftColumn$dzLeftColumn$columnDisplay$ctl00$controlcolumn$ctl02$WidgetHost$updatepanel','tctl00$ctl00$cphMain$cphLeftColumn$dzLeftColumn$columnDisplay$ctl00$controlcolumn$ctl03$WidgetHost$updatepanel','tctl00$ctl00$cphMain$cphLeftColumn$dzLeftColumn$columnDisplay$ctl00$controlcolumn$ctl04$WidgetHost$updatepanel','tctl00$ctl00$cphMain$cphLeftColumn$dzLeftColumn$columnDisplay$ctl00$controlcolumn$ctl05$WidgetHost$updatepanel','tctl00$ctl00$cphMain$cphLeftColumn$dzLeftColumn$columnDisplay$ctl00$controlcolumn$ctl06$WidgetHost$updatepanel','tctl00$ctl00$cphMain$cphTop$dzFundInfo$columnDisplay$ctl00$controlcolumn$ctl00$WidgetHost$updatepanel','tctl00$ctl00$cphMain$cphTop$dzFundInfo$columnDisplay$ctl00$controlcolumn$ctl01$WidgetHost$updatepanel','tctl00$ctl00$cphMain$cphTop$dzFundInfo$columnDisplay$ctl00$controlcolumn$ctl02$WidgetHost$updatepanel','tctl00$ctl00$cphMain$cphTop$dzFundInfo$columnDisplay$ctl00$controlcolumn$ctl03$WidgetHost$updatepanel','tctl00$ctl00$cphMain$cphMain$dzMain$columnDisplay$ctl00$controlcolumn$ctl00$WidgetHost$updatepanel','tctl00$ctl00$cphMain$cphMain$dzMain$columnDisplay$ctl00$controlcolumn$ctl01$WidgetHost$updatepanel','tctl00$ctl00$cphFooter$cphIntFooter$dzFooter$columnDisplay$ctl00$controlcolumn$ctl00$WidgetHost$updatepanel','tctl00$ctl00$cphFooter$cphIntFooter$dzFooter$columnDisplay$ctl00$controlcolumn$ctl01$WidgetHost$updatepanel'], [], [], 90);
+//]]>
+</script>
+
+        
+    
+    
+
+
+    <script type="text/javascript" language="JavaScript">
+        Ektron.PBMasterSettings = { 'isMasterLayout': false, 'pathToLock': '/WorkArea/PageBuilder/PageControls/Themes/TrueBlue/images/lock.png', 'hasMasterLayout': false }
+    </script>
+
+
+    <script type="text/javascript" language="JavaScript">
+        Ektron.PBSettings = { 'dontClose': true }
+    </script>
+
+
+
+
+
+
+
+        <div class="wrapper">
+            <header class="clearfix">
+                <div class="head_right">
+                    <div id="ctl00_ctl00_mainHeader_US">
+                        <div id="ctl00_ctl00_ucitsLink" class="ucits_link">
+                            <a id="thickboxNonUSInvestors" href="/templates/DisclaimerPopUp.aspx?id=2147490291&button=no&height=370&width=650&url=/&TB_iframe=false&modal=true" class="thickbox">
+                                NON - U.S. INVESTORS
+                            </a>
+                        </div>
+                        <div class="search_header clearfix">
+                            <input name="ctl00$ctl00$txtSearch" type="text" maxlength="50" id="ctl00_ctl00_txtSearch" class="textInput" />
+                            <a id="ctl00_ctl00_lbSearch" class="button_search" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$lbSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">SEARCH</a>
+                        </div>
+                        <div class="language_selector clearfix">
+                            <script language="javascript" type="text/javascript">
+//<![CDATA[
+var replaceQueryString = ""
+function BuildQueryString() {
+    replaceQueryString = ""
+    var search;
+    try {search = location.href.split("?");} catch(err) {search='';} 
+    if (search.length > 1){ 
+        var vals=search[1].split("&");
+        var request= new Array(); 
+        for (var i in vals) { 
+            vals[i] = vals[i].replace(/\+/g, " ").split("="); 
+            if (unescape(vals[i][0]).toLowerCase() != "langtype") { //we just ignore langtype.
+                if (replaceQueryString == "") { replaceQueryString = unescape(vals[i][0]) + "=" + unescape(vals[i][1]) } 
+                else { replaceQueryString += "&" +  unescape(vals[i][0]) + "=" + unescape(vals[i][1])}
+            }
+            request[unescape(vals[i][0])] =unescape(vals[i][1]); 
+        }
+    }
+}
+BuildQueryString();
+//]]>
+</script>
+
+<label for="__selLang" title="English (U.S.)"></label><script language="javascript" type="text/javascript">
+//<![CDATA[
+function LoadSiteLanguage(obj) {
+  BuildQueryString();
+  if (replaceQueryString != "") { replaceQueryString = replaceQueryString + "&" } 
+  var path = '';
+  try {path = location.pathname} catch(err) {} 
+  path = path + "?" + replaceQueryString + "LangType=" + obj.options[obj.selectedIndex].value;
+  path = path.replace("//", "/");
+  document.location.href= path;
+}
+//]]>
+</script>
+<select id="__selLang" name="__selLang" title="" >
+<option value="2052">汉语(中华人民共和国) [Chinese (PRC)]</option>
+<option value="1033" selected="selected">English (U.S.)</option>
+<option value="1041">日本語 [Japanese]</option>
+<option value="21514">Español (E.U.) [Spanish (U.S.)]</option>
+</select>
+<script type="text/javascript">
+//<![CDATA[
+  function initSelect(){
+      var theSelect = document.getElementById("__selLang");
+      theSelect.changed = false;
+      theSelect.onfocus = selectFocused;
+      theSelect.onchange = selectChanged;
+      theSelect.onkeydown = selectKeyed;
+      theSelect.onclick = selectClicked;
+      return true;
+  }
+  function selectChanged(theElement){
+      var theSelect;
+      if (theElement && theElement.value) {
+          theSelect = theElement;
+      } else {
+          theSelect = this;
+      }
+      if (!theSelect.changed) {
+          return false;
+      }
+      //change language here
+      LoadSiteLanguage(theSelect);
+      return true;
+  }
+  function selectClicked(){
+      this.changed = true;
+  }
+  function selectFocused() {
+      this.initValue = this.value;
+      return true;
+  }
+  function selectKeyed(e){
+      var theEvent;
+      var keyCodeTab = "9";
+      var keyCodeEnter = "13";
+      var keyCodeEsc = "27";
+      if (e){
+          theEvent = e;
+      } else {
+          theEvent = event;
+      }
+      if ((theEvent.keyCode == keyCodeEnter || theEvent.keyCode == keyCodeTab) && this.value != this.initValue){
+          this.changed = true;
+          selectChanged(this);
+      } else if (theEvent.keyCode == keyCodeEsc){
+          this.value = this.initValue;
+      } else {
+          this.changed = false;
+      }
+      return true;
+  }
+  initSelect();
+//]]>
+</script>
+
+                        </div>
+                        <div class="contact_us">
+                            <a href="/about-van-eck/contact-us">CONTACT</a> | 
+                            <a href="http://www.youtube.com/user/VanEckGlobal">Follow</a>
+                        </div>        	     
+                        <div class="social_media">
+                            <a href="http://www.youtube.com/user/VanEckGlobal" target="_blank" class="sm_header_youtube"></a>
+                            <a href="http://www.linkedin.com/company/van-eck-global" target="_blank" class="sm_header_linkedin"></a>
+                        </div>
+                    </div>
+                    
+                </div><!--end head_right-->
+                <a href="/" class="logo"></a>
+            </header>
+            <!--end header-->
+            <div id="ctl00_ctl00_cmsMarketVectorsMenu" class="marketvectors">
+	
+<nav class="top"><a href="#" class="drop_tab green" id="drop_tab_green"><p>Market Vectors ETFs <img src="/images/etf/ar_down.png" /></p></a><div class="drop"><div class="drop_contetn"><div class="clearfix"><div class="part clearfix"><h3 class="title_part"><a href="/market-vectors/equity-etfs/">Equity ETFs<span> »</span></a></h3><div class="for_lists"><ul class="lists vinous"><li class="title"><a href="/market-vectors/equity-etfs/broad-based/">Broad-Based »</a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/moat/snapshot/"><span class="short">MOAT</span><span class="">Wide Moat ETF</span></a></li></ul><ul class="lists orandge"><li class="title"><a href="/market-vectors/equity-etfs/international/">International »</a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/afk/snapshot/"><span class="short">AFK</span><span class="">Africa Index ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/brf/snapshot/"><span class="short">BRF</span><span class="">Brazil Small-Cap ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/pek/snapshot/"><span class="short">PEK</span><span class="">ChinaAMC A-Share ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/colx/snapshot/"><span class="short">COLX</span><span class="">Colombia ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/egpt/snapshot/"><span class="short">EGPT</span><span class="">Egypt Index ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/gerj/snapshot/"><span class="short">GERJ</span><span class="">Germany Small-Cap ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/mes/snapshot/"><span class="short">MES</span><span class="">Gulf States Index ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/scif/snapshot/"><span class="short">SCIF</span><span class="">India Small-Cap Index ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/idx/snapshot/"><span class="short">IDX</span><span class="">Indonesia Index ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/idxj/snapshot/"><span class="short">IDXJ</span><span class="">Indonesia Small-Cap ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/isra/snapshot/"><span class="short">ISRA</span><span class="">Israel ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/latm/snapshot/"><span class="short">LATM</span><span class="">Latin America Small-Cap Index ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/plnd/snapshot/"><span class="short">PLND</span><span class="">Poland ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/qxus/snapshot/"><span class="short">QXUS</span><span class="">MSCI International Quality ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/qem/snapshot/"><span class="short">QEM</span><span class="">MSCI Emerging Markets Quality ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/qdxu/snapshot/"><span class="short">QDXU</span><span class="">MSCI International Quality Dividend ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/qdem/snapshot/"><span class="short">QDEM</span><span class="">MSCI Emerging Markets Quality Dividend ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/rsx/snapshot/"><span class="short">RSX</span><span class="">Russia ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/rsxj/snapshot/"><span class="short">RSXJ</span><span class="">Russia Small-Cap ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/vnm/snapshot/"><span class="short">VNM</span><span class="">Vietnam ETF</span></a></li></ul></div><div class="for_lists last"><ul class="lists yellow"><li class="title"><a href="/market-vectors/equity-etfs/hard-assets/">Hard Assets »</a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/moo/snapshot/"><span class="short">MOO</span><span class="">Agribusiness ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/kol/snapshot/"><span class="short">KOL</span><span class="">Coal ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/gex/snapshot/"><span class="short">GEX</span><span class="">Global Alternative Energy ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/gdx/snapshot/"><span class="short">GDX</span><span class="">Gold Miners ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/gdxj/snapshot/"><span class="short">GDXJ</span><span class="">Junior Gold Miners ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/oih/snapshot/"><span class="short">OIH</span><span class="">Oil Services ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/remx/snapshot/"><span class="short">REMX</span><span class="">Rare Earth/Strategic Metals ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/hap/snapshot/"><span class="short">HAP</span><span class="">RVE Hard Assets Producers ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/kwt/snapshot/"><span class="short">KWT</span><span class="">Solar Energy ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/slx/snapshot/"><span class="short">SLX</span><span class="">Steel ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/frak/snapshot/"><span class="short">FRAK</span><span class="">Unconventional Oil &amp; Gas ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/nlr/snapshot/"><span class="short">NLR</span><span class="">Uranium+Nuclear Energy ETF</span></a></li></ul><ul class="lists lightGreen"><li class="title"><a href="/market-vectors/equity-etfs/industry/">Industry »</a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/rkh/snapshot/"><span class="short">RKH</span><span class="">Bank and Brokerage ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/bbh/snapshot/"><span class="short">BBH</span><span class="">Biotech ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/evx/snapshot/"><span class="short">EVX</span><span class="">Environmental Services ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/bjk/snapshot/"><span class="short">BJK</span><span class="">Gaming ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/pph/snapshot/"><span class="short">PPH</span><span class="">Pharmaceutical ETF</span></a></li><li class="clearfix"><a href="/market-vectors/equity-etfs/rth/snapshot/"><span class="short">RTH</span><span class="">Retail ETF</span></a></li><li class="colored clearfix"><a href="/market-vectors/equity-etfs/smh/snapshot/"><span class="short">SMH</span><span class="">Semiconductor ETF</span></a></li></ul></div></div><div class="part second clearfix"><h3 class="title_part"><a href="/market-vectors/income-etfs/">Income ETFs<span> »</span></a></h3><div class="for_lists"><ul class="lists green"><li class="title"><a href="/market-vectors/income-etfs/corporate-bond/">Corporate Bond »</a></li><li class="colored clearfix"><a href="/funds/ANGL.aspx"><span class="short">ANGL</span><span class="">Fallen Angel High Yield Bond ETF</span></a></li><li class="clearfix"><a href="/funds/FLTR.aspx"><span class="short">FLTR</span><span class="">Investment Grade Floating Rate</span></a></li><li class="colored clearfix"><a href="/funds/THHY.aspx"><span class="short">THHY</span><span class="">Treasury-Hedged High Yield Bond</span></a></li></ul><ul class="lists darkBlue"><li class="title"><a href="/market-vectors/income-etfs/equity-income/">Equity Income »</a></li><li class="colored clearfix"><a href="/funds/BIZD.aspx"><span class="short">BIZD</span><span class="">BDC Income ETF</span></a></li><li class="clearfix"><a href="/funds/MORT.aspx"><span class="short">MORT</span><span class="">Mortgage REIT Income ETF</span></a></li><li class="colored clearfix"><a href="/funds/PFXF.aspx"><span class="short">PFXF</span><span class="">Pref Securities ex Financials ETF</span></a></li></ul><ul class="lists blue"><li class="title"><a href="/market-vectors/income-etfs/international-bond/">International Bond »</a></li><li class="colored clearfix"><a href="/funds/EMAG.aspx"><span class="short">EMAG</span><span class="">Emerging Markets Aggregate Bond ETF</span></a></li><li class="clearfix"><a href="/funds/HYEM.aspx"><span class="short">HYEM</span><span class="">Emerging Markets High Yield Bond ETF</span></a></li><li class="colored clearfix"><a href="/funds/EMLC.aspx"><span class="short">EMLC</span><span class="">Emerging Markets Local Currency Bond ETF</span></a></li><li class="clearfix"><a href="/funds/IHY.aspx"><span class="short">IHY</span><span class="">International High Yield Bond ETF</span></a></li><li class="colored clearfix"><a href="/funds/CHLC.aspx"><span class="short">CHLC</span><span class="">Renminbi Bond ETF</span></a></li></ul></div><div class="for_lists last"><ul class="lists violet"><li class="title"><a href="/market-vectors/income-etfs/municipal-income/">Municipal Income »</a></li><li class="colored clearfix"><a href="/funds/XMPT.aspx"><span class="short">XMPT</span><span class="">CEF Municipal Income ETF</span></a></li><li class="clearfix"><a href="/funds/HYD.aspx"><span class="short">HYD</span><span class="">High-Yield Municipal Index ETF</span></a></li><li class="colored clearfix"><a href="/funds/ITM.aspx"><span class="short">ITM</span><span class="">Intermediate Municipal Index ETF</span></a></li><li class="clearfix"><a href="/funds/MLN.aspx"><span class="short">MLN</span><span class="">Long Municipal Index ETF</span></a></li><li class="colored clearfix"><a href="/funds/PRB.aspx"><span class="short">PRB</span><span class="">Pre-Refunded Municipal Index ETF</span></a></li><li class="clearfix"><a href="/funds/SHYD.aspx"><span class="short">SHYD</span><span class="">Short High-Yield Municipal Index ETF</span></a></li><li class="colored clearfix"><a href="/funds/SMB.aspx"><span class="short">SMB</span><span class="">Short Municipal Index ETF</span></a></li></ul></div></div><div class="part second clearfix"><h3 class="title_part etn">ETNs<span> »</span></h3><ul class="lists grey"><li class="title">Currency ETNs »
+          </li><li class="colored clearfix"><a href="http://www.marketvectorsetns.com"><span class="">ETNs Homepage</span></a></li></ul></div></div><div class="empty_block clearfix"><div class="empty_block_first"><a href="/special/emag/"><img src="/uploadedImages/Icon_and_Images/Flyaway_Left_01.jpg" /></a></div><div class="empty_block_second"><a href="/market-vectors/"><img width="738px" src="/uploadedImages/Icon_and_Images/Flyaway_Right_03.jpg" /></a></div></div><div class="shadow_under_drop"></div></div></div><nav class="top_new"><ul class="level1"><li><a href="#" class="drop_tab blue"><p>Van Eck Mutual Funds <img src="/images/etf/ar_down.png" /></p></a><div class="shadow"></div><div class="empty_block clearfix"></div><ul class="level2"><li><a href="/van-eck-funds/mutual-funds">Mutual Funds</a></li><li><a href="/van-eck-funds/vip-insurance-funds">VIP Insurance Funds</a></li></ul></li></ul></nav><ul class="nav_main"></ul></nav><script type="text/javascript" language="JavaScript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript" language="javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+
+</div>
+            
+            <div id="ctl00_ctl00_cmsInstitutionalMenu" class="institutional">
+	
+<nav class="top_new"><ul class="level1"><li><a href="/institutional/alternative-investments-separate-accounts">Institutional</a><ul class="level2"><li><a href="/institutional/alternative-investments-separate-accounts">Alternative Investments</a></li><li><a href="/institutional/alternative-investments-separate-accounts">Separate Accounts</a></li><li><a href="/van-eck-funds/institutional-mutual-funds">Institutional Funds</a></li></ul></li></ul></nav><script type="text/javascript" language="JavaScript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript" language="javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+
+</div>
+            <div id="ctl00_ctl00_cmsPerformanceMenu" class="performance">
+	
+<nav class="top_new"><ul class="level1"><li><a href="/performance/mutual-funds">Performance</a><ul class="level2"><li><a href="/performance/mutual-funds">Prices &amp; Returns</a><ul class="level3"><li><a><div class="subdivhead" href="/#"></div>VAN ECK FUNDS</a><ul class="level4"><li><a href="/performance/mutual-funds/">Mutual Funds</a></li><li><a href="/PricesReturns.aspx?Group=WWIT">Insurance Funds</a></li><li><a href="/performance/institutional-funds/">Institutional Funds</a></li></ul></li><li><a><div class="subdivhead" href=""></div>MARKET VECTORS ETFs</a><ul class="level4"><li><a href="/performance/market-vectors-etfs/equity-etfs/">Equity ETFs</a></li><li><a href="/performance/market-vectors-etfs/equity-indices/">Equity Indices</a></li><li><a href="/performance/market-vectors-etfs/income-etfs/">Income ETFs</a></li><li><a href="/performance/market-vectors-etfs/income-indices/">Income Indices</a></li></ul></li></ul></li><li><a href="/performance/distributions/mutual-funds/">Distributions &amp; Tax Info</a><ul class="level3"><li><a href="/performance/distributions/mutual-funds">VAN ECK FUNDS</a></li><li><a href="/performance/distributions/market-vectors-etfs">MARKET VECTORS ETFs</a></li></ul></li><li><a href="/performance/distributions/market-vectors-etfs/">ETF Tax Information</a></li></ul></li></ul></nav><script type="text/javascript" language="JavaScript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript" language="javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+
+</div>
+            <div id="ctl00_ctl00_cmsLibraryMenu" class="library">
+	
+<nav class="top_new"><ul class="level1"><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=2907&amp;aid=2906">Media Library</a><ul class="level2"><li><a href="/library/viewpoint-videos/">Van Eck Viewpoints</a><ul class="level3"><li><a href="/library/viewpoint-videos/">Videos</a></li><li><a href="/library/podcasts/">Podcasts</a></li><li><a href="/library/viewpoint">Research</a></li><li><a href="/blogs/muni-nation/">MUNI NATION</a></li></ul></li><li><a href="/library/mutual-funds-literature">Fund Literature</a><ul class="level3"><li><a><div class="subdivhead" href=""></div>Van Eck Funds</a><ul class="level4"><li><a href="/library/mutual-funds-literature/">Mutual Funds</a></li><li><a href="/library/insurance-funds-literature">Insurance Funds</a></li><li><a href="/library/institutional-mutual-funds-literature/">Institutional Funds</a></li></ul></li><li><a><div class="subdivhead" href=""></div>Market Vectors ETFs</a><ul class="level4"><li><a href="/library/equity-etfs-literature">Equity ETFs</a></li><li><a href="/library/income-etfs-literature">Income ETFs</a></li></ul></li><li><a href="/library/request-literature">Request Literature</a></li><li><a href="/library/fund-filings/">Fund Filings</a></li></ul></li></ul></li></ul></nav><script type="text/javascript" language="JavaScript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript" language="javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+
+</div>
+            <div id="ctl00_ctl00_cmsAboutVanEckMenu" class="about">
+	
+<nav class="top_new"><ul class="level1"><li><a href="/about-van-eck/investment-teams/mutual-funds/hard-assets">About Van Eck</a><ul class="level2"><li><a href="/about-van-eck/about-us">About Us</a></li><li><a href="/about-van-eck/investment-teams/van-eck-global/hard-assets/">Investment Teams</a></li><li><a href="/about-van-eck/corporate-management">Corporate Management</a></li><li><a href="/about-van-eck/client-services">Client Services</a></li><li><a href="/about-van-eck/market-vectors-indices/">Market Vectors Indices</a></li><li><a href="/about-van-eck/company-founder-john-van-eck">Company Founder</a></li><li><a href="/institutional/alternative-investments-separate-accounts">Institutional</a></li><li><a href="/about-van-eck/press-room/press-releases">Press Room</a></li><li><a href="/about-van-eck/of-ties-and-totes/">Of Ties and Totes</a></li><li><a href="/about-van-eck/the-van-eck-forest-project/">Van Eck Forest Project</a></li><li><a href="/about-van-eck/careers">Careers</a></li><li><a href="/about-van-eck/contact-us">Contact Us</a></li></ul></li></ul></nav><script type="text/javascript" language="JavaScript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript" language="javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+
+</div>
+            
+            <div class="empty_block clearfix">
+            </div>
+            <div class="line_top"></div>
+            
+    
+    <div id="ctl00_ctl00_cphBreadcrumb_divBC" class="breadcrumb">
+        <div id="ctl00_ctl00_cphBreadcrumb_FolderBreadcrumb1">
+	<ul class="location"><li><a href="/">Home</a> » </li><li><a href="/page_mv.aspx">Market Vectors ETFs</a> » </li><li><a href="/page_mv.aspx?Group=ETF">Equity ETFs</a> » </li><li>GDXJ - Junior Gold Miners ETF</li></ul>
+</div>
+        
+        <ul style="*margin-top: -5px;">
+		    <li style="display:inline;"><a id="ctl00_ctl00_cphBreadcrumb_hlEmailTo" class="icon mail" href="mailto:?subject=GDXJ - Junior Gold Miners ETF | Holdings | Equity ETFs- Van Eck Global&amp;body=http://www.vaneck.com/Templates/PageLayout_ETF.aspx?pageid=3315"></a></li>
+		    <li style="display:inline;"><a class="icon print" href="#" onclick="window.print();return false;"></a></li>
+	    </ul>	
+    </div>
+
+            <section class="main clearfix">           
+                
+                
+    <section class="left_col">
+        
+    
+
+<div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_updatepanel">
+	
+        <div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_dzcontainer" class="dropzone PBClear">
+            
+            
+                    <div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_zone" class="PBViewing" style="width:100%;">
+                        <ul id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_column" class="columnwidgetlist" columnid="0" columnguid="00000000-0000-0000-0000-000000000000">
+                            
+                            
+                                    <li class="PBItem">
+                                        
+
+<div class="widget" id="dropcontainer">
+    <span id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        <div style="display:none;">
+            Ticker:-
+            GDXJ;false;MVGDXJ;
+        </div>
+    
+
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                                    <li class="PBItem">
+                                        
+
+<div class="widget" id="dropcontainer">
+    <span id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        <div style="display:none;">
+            Ticker Group:-
+            ETFEQ_HA;false;;
+        </div>
+    
+
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                                    <li class="PBItem">
+                                        
+
+<div class="widget" id="dropcontainer">
+    <span id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl02_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl02_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        
+        <div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl02_WidgetHost_WidgetHost_widget_ccContent">
+			<span style="display:none" xmlns:cms="urn:Ektron.Cms.Controls"> </span>
+<script language="JavaScript" type="text/javascript" defer="defer" xmlns:cms="urn:Ektron.Cms.Controls">
+  <!--
+  function ektLocalizeDate(date, id) {
+	  setTimeout(function() {
+	  if (document.getElementById && 10 == date.length) {
+		  var oTempDate = new Date(date.substr(0,4), parseInt(date.substr(5,2),10)-1, date.substr(8,2));
+		  document.getElementById(id).innerHTML=(oTempDate.toLocaleDateString ? oTempDate.toLocaleDateString() : oTempDate.toLocaleString());
+	  }
+	  }, 1); 
+  }
+
+// -->
+</script>
+    
+    <div class="block" xmlns:cms="urn:Ektron.Cms.Controls">
+	      <div class="picture"><img src="/uploadedImages/Funds_-_New_Tabbed_Pages/market-vectors/equity-etfs/gdxj/GDXJ-Junior-Gold-Miners-ETF.jpg" /></div>
+	      
+	      <div class="more_icon">
+		      
+	      </div>
+	  </div>
+    
+  
+		</div>
+        
+        
+        <span id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl02_WidgetHost_WidgetHost_widget_errorLb"></span>
+    
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                                    <li class="PBItem">
+                                        
+
+<div class="widget" id="dropcontainer">
+    <span id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl03_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl03_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        <div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl03_WidgetHost_WidgetHost_widget_divViewSidebar" class="block media">
+            <h4>
+                Media Center: Hard Assets ETFs</h4>
+            <ul class="videoViewpoint">
+                
+                        <li class="new">
+                            <a id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl03_WidgetHost_WidgetHost_widget_rptVideoSidebar_ctl00_hlVideoLink" href="/Library/viewpoint-videos/?video=635217488400584500"><img id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl03_WidgetHost_WidgetHost_widget_rptVideoSidebar_ctl00_imgVideoImage" Borders="0" src="/uploadedImages/Library/Assets/Video_Images/2013/Sam-Halpert-Ag-2013-Review-2014-Outlook-On-Off.jpg" style="height:55px;width:90px;border-width:0px;" /><span id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl03_WidgetHost_WidgetHost_widget_rptVideoSidebar_ctl00_lblVideoText">Agribusiness: Review of 2013 and Outlook for 2014 (6:01)<br/>Sam Halpert</span></a>
+                        </li>
+                    
+                        <li class="new">
+                            <a id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl03_WidgetHost_WidgetHost_widget_rptVideoSidebar_ctl01_hlVideoLink" href="/Library/viewpoint-videos/?video=635205383579405435"><img id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl03_WidgetHost_WidgetHost_widget_rptVideoSidebar_ctl01_imgVideoImage" Borders="0" src="/uploadedImages/Library/Assets/Video_Images/2013/Charl-Malan-Industrial-Cost-Capital-2014-On-Off.jpg" style="height:55px;width:90px;border-width:0px;" /><span id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl03_WidgetHost_WidgetHost_widget_rptVideoSidebar_ctl01_lblVideoText">Industrial Metals: Focusing on Capital and Cost Management in 2014 (7:09)<br/>Charl Malan</span></a>
+                        </li>
+                    
+            </ul>
+        </div>
+        <div class="clear"></div>
+    
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                                    <li class="PBItem">
+                                        
+
+<div class="widget" id="dropcontainer">
+    <span id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl04_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl04_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        
+        <span id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl04_WidgetHost_WidgetHost_widget_lblError"></span>
+        <div class="block media"><h3>Making News</h3><div class="light_blue"><a href="/market-vectors/equity-etfs/hard-assets-Making-News/ETF-Trends--Seduced-by-Solar-ETFs/" target="_blank" class="docs link">ETF Trends: Seduced by Solar ETFs</a><p class="description_text recent"><Teaser><p><br />11/15/13: Todd Shriber describes the improving fundamental outlook for the solar space. “Cheaper financing, including the proliferation of solar leasing, has helped bolster once dim prospects. The Chinese government stepping up to help its ailing solar firms has been a significant catalyst…”<br /><a title="View article" href="/offsite.aspx?disclaimer=1409&amp;button=yes&amp;url=http://www.etftrends.com/2013/11/seduced-by-solar-etfs/" target="_blank">View article »</a> </p><hr style="border: 1px dashed; width: 100px; color: rgb(244, 209, 173);" /><br /></Teaser></p><a href="/market-vectors/equity-etfs/hard-assets-Making-News/ETF-Trends--Goldman-Buoys-Steel-ETF/" target="_blank" class="docs link">ETF Trends: Goldman Buoys Steel ETF</a><p class="description_text recent"><Teaser><p><br />11/04/13: Todd Shriber discusses <strong><a title="SLX" href="/market-vectors/equity-etfs/slx/snapshot/" target="_blank">SLX</a> </strong>in the context of Goldman Sach’s recent upgrade of its view on the steel sector from cautious to neutral. Additionally, he writes, “Not only have materials stocks and ETFs been rallying recently, but history shows this is the ideal time of the year in which to own materials names.”<br /><a title="View article" href="/offsite.aspx?disclaimer=1409&amp;button=yes&amp;url=http://www.etftrends.com/2013/11/goldman-buoys-steel-etf/" target="_blank">View article »</a> </p><hr style="border: 1px dashed; width: 100px; color: rgb(244, 209, 173);" /><br /></Teaser></p><a href="/market-vectors/equity-etfs/hard-assets-Making-News/ETF-Trends--Capture-the-U-S--Oil-Boom-with-the-Unconventional-ETF/" target="_blank" class="docs link">ETF Trends: Capture the U.S. Oil Boom with the Unconventional ETF</a><p class="description_text recent"><Teaser><p><br />10/31/13: Tom Lydon chooses <strong><a title="FRAK" href="/market-vectors/equity-etfs/FRAK/snapshot/" target="_blank">FRAK</a> </strong>as “ETF of the Week” for Chuck Jaffe’s MoneyLife Show on Marketwatch. “The specialized ETF helps investors gain exposure to the U.S. oil boom and expansion into shale oil production.”<br /><a title="Podcast" href="/offsite.aspx?disclaimer=1409&amp;button=yes&amp;url=http://www.etftrends.com/wp-content/uploads/podcasts/103113MoneyLifePodcast.mp3" target="_blank">Listen to podcast  »</a> </p><hr style="border: 1px dashed; width: 100px; color: rgb(244, 209, 173);" /><br /></Teaser></p><a href="/market-vectors/equity-etfs/hard-assets-Making-News/ETF-Trends--Solar-ETFs-Dazzle-in-the-Second-Quarter/" target="_blank" class="docs link">ETF Trends: Solar ETFs Dazzle in the Second Quarter</a><p class="description_text recent"><Teaser><p><br />6/28/13: <em>ETF Trends</em> examines opportunities in the renewable energy space and highlights <strong><a title="KWT" href="/market-vectors/equity-etfs/kwt/snapshot/" target="_blank">KWT's</a> </strong>notable second quarter. “Solar ETFs are generating high returns as the industry outshines expectations that a string of negative factors would weigh on solar stocks.”<br /><a title="View article" href="/offsite.aspx?disclaimer=1409&amp;button=yes&amp;url=http://www.etftrends.com/2013/06/solar-etfs-dazzle-in-the-second-quarter/" target="_blank">View article »</a> </p><hr style="border: 1px dashed; width: 100px; color: rgb(244, 209, 173);" /><br /></Teaser></p></div></div><div class="clear"></div>
+    
+
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                                    <li class="PBItem">
+                                        
+
+<div class="widget" id="dropcontainer">
+    <span id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl05_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl05_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        <div class="income">
+            <div class="block funds">
+                <h3>Other MV ETFs</h3>
+                <div class="light_blue">
+                    
+                            <div class="names clearfix">
+                                <a id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl05_WidgetHost_WidgetHost_widget_rptFunds_ctl00_hlTicker" class="a_name yellow" href="/market-vectors/equity-etfs/gdx/snapshot/">GDX</a>
+                                <p>
+                                    <a id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl05_WidgetHost_WidgetHost_widget_rptFunds_ctl00_hlTitle" href="/market-vectors/equity-etfs/gdx/snapshot/">Gold Miners ETF</a></p>
+                            </div>
+                        
+                            <div class="separator"></div>
+                        
+                            <div class="names clearfix">
+                                <a id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl05_WidgetHost_WidgetHost_widget_rptFunds_ctl02_hlTicker" class="a_name yellow" href="/market-vectors/equity-etfs/hap/snapshot/">HAP</a>
+                                <p>
+                                    <a id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl05_WidgetHost_WidgetHost_widget_rptFunds_ctl02_hlTitle" href="/market-vectors/equity-etfs/hap/snapshot/">RVE Hard Assets Producers ETF</a></p>
+                            </div>
+                        
+                            <div class="separator"></div>
+                        
+                            <div class="names clearfix">
+                                <a id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl05_WidgetHost_WidgetHost_widget_rptFunds_ctl04_hlTicker" class="a_name yellow" href="/market-vectors/equity-etfs/kol/snapshot/">KOL</a>
+                                <p>
+                                    <a id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl05_WidgetHost_WidgetHost_widget_rptFunds_ctl04_hlTitle" href="/market-vectors/equity-etfs/kol/snapshot/">Coal ETF</a></p>
+                            </div>
+                        
+                            <div class="separator"></div>
+                        
+                            <div class="names clearfix">
+                                <a id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl05_WidgetHost_WidgetHost_widget_rptFunds_ctl06_hlTicker" class="a_name yellow" href="/market-vectors/equity-etfs/oih/snapshot/">OIH</a>
+                                <p>
+                                    <a id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl05_WidgetHost_WidgetHost_widget_rptFunds_ctl06_hlTitle" href="/market-vectors/equity-etfs/oih/snapshot/">Oil Services ETF</a></p>
+                            </div>
+                        
+                    
+                </div>
+            </div>
+            <!--end block-->
+        </div>
+    
+
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                                    <li class="PBItem">
+                                        
+
+<div class="widget" id="dropcontainer">
+    <span id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl06_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl06_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        
+        <div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl06_WidgetHost_WidgetHost_widget_ccContent">
+			<span style="display:none" xmlns:cms="urn:Ektron.Cms.Controls"> </span>
+<script language="JavaScript" type="text/javascript" defer="defer" xmlns:cms="urn:Ektron.Cms.Controls">
+  <!--
+function ektLocalizeDate(date, id) {
+	setTimeout(function() {
+	if (document.getElementById && 10 == date.length) {
+		var oTempDate = new Date(date.substr(0,4), parseInt(date.substr(5,2),10)-1, date.substr(8,2));
+		document.getElementById(id).innerHTML=(oTempDate.toLocaleDateString ? oTempDate.toLocaleDateString() : oTempDate.toLocaleString());
+	}
+	}, 1); 
+}
+// -->
+</script>
+    
+    <div class="block media" xmlns:cms="urn:Ektron.Cms.Controls">
+	    <h3>How to Purchase</h3>
+      <div class="text_mini_block">
+        <a href="/library/purchaseETF.aspx">Learn more </a>
+      </div>
+	  </div>  
+  
+		</div>
+        
+        
+        <span id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn_columnDisplay_ctl00_controlcolumn_ctl06_WidgetHost_WidgetHost_widget_errorLb"></span>
+    
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                        </ul>
+                    </div>
+                
+        </div>
+    
+</div>
+
+
+	<div id="ctl00_ctl00_cphMain_cphLeftColumn_login1_pnlLogin">
+	
+	<div id="ctl00_ctl00_cphMain_cphLeftColumn_login1_pnlIndividualInvestor">
+		
+		<div class="left_top_box_ETF">
+			<div class="top_box_heading_ETF">
+				<h5>Individual Investors</h5>
+			</div>
+			<div class="top_box_details_ETF">
+				<span class="top_box_title_ETF" style="display: inline;">
+					<p>Subscribe to email updates</p>
+				</span><a id="ctl00_ctl00_cphMain_cphLeftColumn_login1_lnkSubscribeNow" class="top_box_link" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$cphMain$cphLeftColumn$login1$lnkSubscribeNow&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Subscribe now</a>
+			</div>
+		</div>
+	
+	</div>
+    <script type="text/javascript">
+        function postbackFromJS(sender, e) {
+            var postBack = new Sys.WebForms.PostBackAction();
+            postBack.set_target(sender);
+            postBack.set_eventArgument(e);
+            postBack.performAction();
+        }
+        $(document).ready(function () {
+            $(".loginButton_etf").attr("title", "Login");
+			$('.username').keydown(function (e) {
+				if (e.keyCode == 13) {
+					$('.loginButton_etf').click();
+					return false;
+				}
+			});
+			$('.password').keydown(function (e) {
+				if (e.keyCode == 13) {
+					$('.loginButton_etf').click();
+					return false;
+				}
+			});
+        });
+    </script>
+    <div class="block">
+        <h3 class="financial">
+            Financial Professionals</h3>
+        <div class="light_blue clearfix">
+            <div id="ctl00_ctl00_cphMain_cphLeftColumn_login1_Panel1">
+		
+                <table id="ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;">
+			<tr>
+				<td>
+                        <div class="instructiontext">
+                            Subscribe to email updates, or 
+password protected financial professional-only content
+                        </div>
+                        <div class="membership_login">
+                            LOGIN
+                        </div>
+                        <div>
+                            <div class="usernamelabel">
+                                email address/username
+                            </div>
+                            <div class="usernametext">
+                                <input name="ctl00$ctl00$cphMain$cphLeftColumn$login1$lgnProfessional$UserName" type="text" id="ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_UserName" class="username" />
+                                <span id="ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_UserNameRequired" title="User Name is required." style="color:Red;font-size:12px;display:none;">*</span>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="passwordlabel">
+                                password
+                            </div>
+                            <div class="passwordtext">
+                                <input name="ctl00$ctl00$cphMain$cphLeftColumn$login1$lgnProfessional$Password" type="password" id="ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_Password" class="password" />
+                                <span id="ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_PasswordRequired" title="Password is required." style="color:Red;font-size:12px;display:none;">*</span>
+                            </div>
+                        </div>
+                        <div class="failure_text">
+                            
+                        </div>
+                        <div class="register_etf">
+                            <a id="ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_lbRegister" href="javascript:__doPostBack('ctl00$ctl00$cphMain$cphLeftColumn$login1$lgnProfessional$lbRegister','')">New? Register Here</a>
+                        </div>
+                        <div class="forgotpassword_etf">
+                            <a id="ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_lbForgotPassword" class="forgotfocus" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$cphMain$cphLeftColumn$login1$lgnProfessional$lbForgotPassword&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Forgot Password</a>
+                        </div>
+                        <div>
+                            <input type="submit" name="ctl00$ctl00$cphMain$cphLeftColumn$login1$lgnProfessional$LoginButton" value="Log In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$cphMain$cphLeftColumn$login1$lgnProfessional$LoginButton&quot;, &quot;&quot;, true, &quot;lgnProfessional&quot;, &quot;&quot;, false, false))" id="ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_LoginButton" class="loginButton_etf" />
+                        </div>
+                    </td>
+			</tr>
+		</table>
+            
+	</div>
+            
+            <p class="failure_text">
+                
+            </p>
+        </div>
+    </div>
+
+</div>
+
+    
+
+<div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn2_updatepanel">
+	
+        <div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn2_dzcontainer" class="dropzone PBClear">
+            
+            
+                    <div id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn2_columnDisplay_ctl00_zone" class="PBViewing" style="width:100%;">
+                        <ul id="ctl00_ctl00_cphMain_cphLeftColumn_dzLeftColumn2_columnDisplay_ctl00_column" class="columnwidgetlist" columnid="0" columnguid="00000000-0000-0000-0000-000000000000">
+                            
+                            
+                        </ul>
+                    </div>
+                
+        </div>
+    
+</div>
+
+
+
+    </section><!--end left_col-->
+    
+    <section class="right_col">
+        <div class="right_block clearfix top_block">
+         <script type="text/javascript">
+            <!--
+             function jumpMenu(targ, selObj, restore) { //v3.0
+                 eval(targ + ".location='" + selObj.options[selObj.selectedIndex].value + "'");
+                 if (restore) selObj.selectedIndex = 0;
+             }
+            //-->
+        </script>
+            
+<link rel='stylesheet' type='text/css' href='/css/FundDropDown.css' />
+<div id="ctl00_ctl00_cphMain_FundDropDown1_divFDD" class="fundDropdown">
+<select class="fundDDstyle" id="fundDD" name="fundDD" onchange="jumpMenu('parent',this,0)">
+<option value=''>Select Another Fund</option><optgroup label='&nbsp;'>
+<optgroup label='MUTUAL FUNDS'><optgroup label='-------------------'></optgroup><option value='/mutual-funds/cm-commodity-index-fund/class-a/cmcax/'>CM Commodity Index Fund (CMCAX)</option><option value='/mutual-funds/emerging-markets-fund/class-a/gbfax/'>Emerging Markets Fund (GBFAX)</option><option value='/mutual-funds/global-hard-assets-fund/class-a/ghaax/'>Global Hard Assets Fund (GHAAX)</option><option value='/mutual-funds/international-investors-gold-fund/class-a/inivx/'>International Investors Gold Fund (INIVX)</option><option value='/mutual-funds/long-short-equity-fund/class-a/lsnax/'>Long/Short Equity Fund (LSNAX)</option><option value='/mutual-funds/multi-manager-alternatives-fund/class-a/vmaax/'>Multi-Manager Alternatives Fund (VMAAX)</option><option value='/mutual-funds/unconstrained-emerging-markets-bond-fund/class-a/embax/'>Unconstrained Emerging Markets Bond Fund (EMBAX)</option><optgroup label='&nbsp;'>
+<optgroup label='INSURANCE FUNDS'><optgroup label='-------------------'></optgroup><option value='/InsuranceFunds/EmergingMarkets.aspx'>VIP Emerging Markets Fund</option><option value='/InsuranceFunds/Gold.aspx'>VIP Global Gold Fund</option><option value='/InsuranceFunds/HardAssets.aspx'>VIP Global Hard Assets Fund</option><option value='/InsuranceFunds/MultiManagerAlternatives.aspx'>VIP Multi-Manager Alternatives Fund</option><option value='/InsuranceFunds/Bond.aspx'>VIP Unconstrained Emerging Markets Bond Fund</option><optgroup label='&nbsp;'>
+<optgroup label='MARKET VECTORS BROAD-BASED U.S. ETFs '><optgroup label='---------------'></optgroup><option value='/funds/MOAT.aspx'>Wide Moat ETF (MOAT)</option><optgroup label='&nbsp;'>
+<optgroup label='MARKET VECTORS HARD ASSETS ETFs'><optgroup label='---------------'></optgroup><option value='/funds/MOO.aspx'>Agribusiness ETF (MOO)</option><option value='/funds/KOL.aspx'>Coal ETF (KOL)</option><option value='/funds/GEX.aspx'>Global Alternative Energy ETF (GEX) </option><option value='/funds/GDX.aspx'>Gold Miners ETF (GDX)</option><option value='/funds/GDXJ.aspx'>Junior Gold Miners ETF (GDXJ)</option><option value='/funds/OIH.aspx'>Oil Services ETF (OIH)</option><option value='/funds/REMX.aspx'>Rare Earth/Strategic Metals ETF (REMX)</option><option value='/funds/HAP.aspx'>RVE Hard Assets Producers ETF (HAP)</option><option value='/funds/KWT.aspx'>Solar Energy ETF (KWT)</option><option value='/funds/SLX.aspx'>Steel ETF (SLX)</option><option value='/funds/FRAK.aspx'>Unconventional Oil & Gas ETF (FRAK)</option><option value='/funds/NLR.aspx'>Uranium+Nuclear Energy ETF (NLR)</option><optgroup label='&nbsp;'>
+<optgroup label='MARKET VECTORS INTERNATIONAL ETFs'><optgroup label='-------------------'></optgroup><option value='/funds/AFK.aspx'>Africa Index ETF (AFK)</option><option value='/funds/BRF.aspx'>Brazil Small-Cap ETF (BRF)</option><option value='/funds/PEK.aspx'>ChinaAMC A-Share ETF (PEK)</option><option value='/funds/COLX.aspx'>Colombia ETF (COLX)</option><option value='/funds/EGPT.aspx'>Egypt Index ETF (EGPT)</option><option value='/funds/GERJ.aspx'>Germany Small-Cap ETF (GERJ)</option><option value='/funds/MES.aspx'>Gulf States Index ETF (MES)</option><option value='/funds/SCIF.aspx'>India Small-Cap Index ETF (SCIF)</option><option value='/funds/IDX.aspx'>Indonesia Index ETF (IDX)</option><option value='/funds/IDXJ.aspx'>Indonesia Small-Cap Index ETF (IDXJ)</option><option value='/market-vectors/equity-etfs/isra/Snapshot/'>Israel ETF (ISRA)</option><option value='/funds/LATM.aspx'>Latin America Small-Cap Index ETF (LATM)</option><option value='/funds/qem.aspx'>MSCI Emerging Markets Quality ETF (QEM)</option><option value='/funds/qdem.aspx'>MSCI Emerging Markets Quality Dividend ETF (QDEM)</option><option value='/funds/qxus.aspx'>MSCI International Quality ETF (QXUS)</option><option value='/funds/qdxu.aspx'>MSCI International Quality Dividend ETF (QDXU)</option><option value='/funds/PLND.aspx'>Poland ETF (PLND)</option><option value='/funds/RSX.aspx'>Russia ETF (RSX)</option><option value='/funds/RSXJ.aspx'>Russia Small-Cap ETF (RSXJ)</option><option value='/funds/VNM.aspx'>Vietnam ETF (VNM)</option><optgroup label='&nbsp;'>
+<optgroup label='MARKET VECTORS INDUSTRY ETFs'><optgroup label='---------------'></optgroup><option value='/funds/RKH.aspx'>Bank and Brokerage ETF (RKH)</option><option value='/funds/BBH.aspx'>Biotech ETF (BBH)</option><option value='/funds/EVX.aspx'>Environmental Services ETF (EVX)</option><option value='/funds/BJK.aspx'>Gaming ETF (BJK)</option><option value='/funds/PPH.aspx'>Pharmaceutical ETF (PPH)</option><option value='/funds/RTH.aspx'>Retail ETF (RTH)</option><option value='/funds/SMH.aspx'>Semiconductor ETF (SMH)</option><optgroup label='&nbsp;'>
+<optgroup label='MARKET VECTORS INCOME ETFs'><optgroup label='-------------------'></optgroup><option value='/funds/BIZD.aspx'>BDC Income ETF (BIZD)</option><option value='/funds/EMAG.aspx'>Emerging Markets Aggregate Bond ETF (EMAG)</option><option value='/funds/HYEM.aspx'>Emerging Markets High Yield Bond ETF (HYEM)</option><option value='/funds/EMLC.aspx'>Emerging Markets Local Currency Bond ETF (EMLC)</option><option value='/funds/ANGL.aspx'>Fallen Angel High Yield Bond ETF (ANGL)</option><option value='/funds/IHY.aspx'>International High Yield Bond ETF (IHY)</option><option value='/funds/FLTR.aspx'>Investment Grade Floating Rate Bond ETF (FLTR)</option><option value='/funds/MORT.aspx'>Mortgage REIT Income ETF (MORT)</option><option value='/funds/PFXF.aspx'>Preferred Securities ex Financials ETF (PFXF)</option><option value='/funds/CHLC.aspx'>Renminbi Bond ETF (CHLC)</option><option value='/funds/THHY.aspx'>Treasury-Hedged High Yield Bond ETF (THHY)</option><optgroup label='&nbsp;'>
+<optgroup label='MARKET VECTORS MUNCIPAL INCOME ETFs'><optgroup label='-------------------'></optgroup><option value='/funds/XMPT.aspx'>CEF Municipal Income ETF (XMPT)</option><option value='/funds/HYD.aspx'>High-Yield Municipal Index ETF (HYD)</option><option value='/funds/ITM.aspx'>Intermediate Municipal Index ETF (ITM)</option><option value='/funds/MLN.aspx'>Long Municipal Index ETF (MLN)</option><option value='/funds/PRB.aspx'>Pre-Refunded Municipal Bond ETF (PRB)</option><option value='/funds/SHYD.aspx'>Short-High Yield Municipal Index ETF (SHYD)</option><option value='/funds/SMB.aspx'>Short Municipal Index ETF (SMB)</option><optgroup label='&nbsp;'>
+<optgroup label='MARKET VECTORS ETNs'><optgroup label='---------------'></optgroup><option value='http://www.marketvectorsetns.com/products.aspx?id=72'>Chinese Renminbi/USD ETN</option><option value='http://www.marketvectorsetns.com/products.aspx?id=74'>Indian Rupee/USD ETN</option><option value='http://www.marketvectorsetns.com/products.aspx?id=73'>Double Long Euro ETN</option><option value='http://www.marketvectorsetns.com/products.aspx?id=75'>Double Short Euro ETN</option></optgroup>
+
+</select>
+</div>
+		    
+            <h2 class="headerForMain">
+                Junior Gold Miners ETF
+                <a id="ctl00_ctl00_cphMain_hlTicker" class="ticker yellow">GDXJ</a>
+            </h2>
+                
+            
+    
+
+<div id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_updatepanel">
+	
+        <div id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_dzcontainer" class="dropzone PBClear">
+            
+            
+                    <div id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_zone" class="PBViewing" style="width:100%;">
+                        <ul id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_column" class="columnwidgetlist" columnid="0" columnguid="00000000-0000-0000-0000-000000000000">
+                            
+                            
+                                    <li class="PBItem">
+                                        
+
+<div class="widget" id="dropcontainer">
+    <span id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        
+        <div id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_ccContent">
+			
+<span style="display:none"> </span><script language="JavaScript" type="text/javascript" defer="defer">
+  <!--
+function ektLocalizeDate(date, id) {
+	setTimeout(function() {
+	if (document.getElementById && 10 == date.length) {
+		var oTempDate = new Date(date.substr(0,4), parseInt(date.substr(5,2),10)-1, date.substr(8,2));
+		document.getElementById(id).innerHTML=(oTempDate.toLocaleDateString ? oTempDate.toLocaleDateString() : oTempDate.toLocaleString());
+	}
+	}, 1); 
+}
+  
+// --></script>
+    <div class="mini_block">
+	    <div class="text_mini_block"><MainText><p><b>Full Name: </b>Market Vectors<sup>®</sup><br />Junior Gold Miners ETF (GDXJ<sup>®</sup>)</p><p><b>Management Style:</b> Replication</p><p><b>Underlying Index:</b> Market Vectors<sup>®</sup> Global Junior Gold Miners Index (MVGDXJTR)</p><p><b>Index Description:</b> MVGDXJTR is a rules-based, modified market capitalization-weighted, float-adjusted index intended to provide investors exposure to small- and medium-capitalization companies in the gold and/or silver mining industry.</p><p style="PADDING-BOTTOM: 5px"><a title="Gold Funds and Gold ETFs" href="http://www.vaneck.com/special/gold-funds-gold-etfs/">Gold Funds and Gold ETFs »</a> </p></MainText></div>
+    </div>
+
+		</div>
+        
+        
+        <span id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_errorLb"></span>
+    
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                                    <li class="PBItem">
+                                        
+
+<div class="widget" id="dropcontainer">
+    <span id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        
+        <div id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_WidgetHost_widget_ccContent">
+			<div class="two_cols two_cols_right_item mleft17" xmlns:cms="urn:Ektron.Cms.Controls">
+  <h4><span> </span><div><span> </span></div></h4>
+  <ul class="details darkGrey">
+    <li class="grey">
+      <p>Fund Ticker</p>
+      <span>GDXJ</span>
+      <span />
+    </li>
+    <li>
+      <p>Exchange</p>
+      <span>NYSE Arca</span>
+      <span />
+    </li>
+    <li class="grey">
+      <p>Index Total Return Ticker</p>
+      <span>MVGDXJTR</span>
+      <span />
+    </li>
+    <li>
+      <p>Index Provider</p>
+      <span>Market Vectors Index Solutions</span>
+      <span />
+    </li>
+    <li class="grey">
+      <p>Total Net Assets</p>
+      <span>$1.4B</span>
+      <span />
+    </li>
+    <li>
+      <p>Shares Outstanding</p>
+      <span>39,487,446</span>
+      <span />
+    </li>
+    <li class="grey">
+      <p>Number of Holdings</p>
+      <span>69</span>
+      <span />
+    </li>
+    <li>
+      <p>Commencement Date</p>
+      <span>11/10/2009</span>
+      <span />
+    </li>
+  </ul>
+  <div class="description" />
+</div>
+		</div>
+        
+        
+        <span id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_WidgetHost_widget_errorLb"></span>
+    
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                                    <li class="PBItem">
+                                        
+
+<div class="widget" id="dropcontainer">
+    <span id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl02_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl02_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        
+        <div id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl02_WidgetHost_WidgetHost_widget_ccContent">
+			<div class="two_cols two_cols_right_item mleft17" xmlns:cms="urn:Ektron.Cms.Controls">
+  <h4><span> </span><div><span>as of 01/22/14</span></div></h4>
+  <ul class="details darkGrey">
+    <li class="grey">
+      <p>30-Day SEC Yield<sup>1</sup></p>
+      <span>-0.10%</span>
+      <span />
+    </li>
+    <li>
+      <p>Distribution Frequency</p>
+      <span>Annually</span>
+      <span />
+    </li>
+    <li class="grey">
+      <p>Gross Expense Ratio<sup>2</sup></p>
+      <span>0.55%</span>
+      <span />
+    </li>
+    <li>
+      <p>Net Expense Ratio<sup>2</sup></p>
+      <span>0.55%</span>
+      <span />
+    </li>
+    <li class="grey">
+      <p>Options</p>
+      <span>Available</span>
+      <span />
+    </li>
+    <li>
+      <a href="http://www.vaneck.com/About/investment_teams.aspx?id=1262" class="download link">Management Team »</a>
+    </li>
+    <li class="grey">
+      <a href="/library/market-vectors-etfs/gdxj-fact-sheet-pdf" class="download pdf">GDXJ Fact Sheet »</a>
+    </li>
+  </ul>
+  <div class="description" />
+</div>
+		</div>
+        
+        
+        <span id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl02_WidgetHost_WidgetHost_widget_errorLb"></span>
+    
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                                    <li class="PBItem">
+                                        
+
+<div class="widget" id="dropcontainer">
+    <span id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl03_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl03_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        <span id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl03_WidgetHost_WidgetHost_widget_errorLb"></span>
+        <div class="two_cols two_cols_right_item mleft17 ft_dropdown">
+            <ul class="details darkGrey">
+                <li>
+                    <select name="ctl00$ctl00$cphMain$cphTop$dzFundInfo$columnDisplay$ctl00$controlcolumn$ctl03$WidgetHost$WidgetHost_widget$ddlInvestorInformation" id="ctl00_ctl00_cphMain_cphTop_dzFundInfo_columnDisplay_ctl00_controlcolumn_ctl03_WidgetHost_WidgetHost_widget_ddlInvestorInformation" class="InvestorInformationDropDown jqtranformdone">
+			<option selected="selected" value="0">Foreign Investor Information &#187;</option>
+			<option value="/market-vectors/equity-etfs/gdxj/documents/?tab=uk#foreign-tax">UK</option>
+			<option value="/market-vectors/equity-etfs/gdxj/documents/?tab=de#foreign-tax">Germany</option>
+			<option value="/market-vectors/equity-etfs/gdxj/documents/?tab=ch#foreign-tax">Switzerland</option>
+			<option value="/market-vectors/equity-etfs/gdxj/documents/?tab=at#foreign-tax">Austria</option>
+
+		</select>
+                </li>
+            </ul>
+        </div>
+    
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                        </ul>
+                    </div>
+                
+        </div>
+    
+</div>
+
+
+
+	    </div><!--end right_block-->	    
+        
+        
+    <div class="right_block clearfix">    
+        <nav class='in_right two_lines'>
+            <ul class="clearfix">
+                
+					    <li class="pass" id="liTab">
+							<a href="/market-vectors/equity-etfs/gdxj/snapshot/" class="snapshot">
+								Snapshot
+							</a>
+						    <div class="ar_green"></div>
+					    </li>
+				    
+					    <li class="pass" id="liTab">
+							<a href="/market-vectors/equity-etfs/gdxj/performance-distributions/" class="performance/distributions">
+								Performance/Distributions
+							</a>
+						    <div class="ar_green"></div>
+					    </li>
+				    
+					    <li class="active" id="liTab">
+							<a href="/market-vectors/equity-etfs/gdxj/holdings/" class="holdings">
+								Holdings
+							</a>
+						    <div class="ar_green"></div>
+					    </li>
+				    
+					    <li class="pass" id="liTab">
+							<a href="/market-vectors/equity-etfs/gdxj/portfolio-analytics/" class="portfolio_analytics">
+								Portfolio Analytics
+							</a>
+						    <div class="ar_green"></div>
+					    </li>
+				    
+					    <li class="pass" id="liTab">
+							<a href="/market-vectors/equity-etfs/gdxj/Securities-Lending/" class="securities_lending">
+								Securities Lending
+							</a>
+						    <div class="ar_green"></div>
+					    </li>
+				    
+					    <li class="pass" id="liTab">
+							<a href="/market-vectors/equity-etfs/gdxj/documents/" class="documents">
+								Documents
+							</a>
+						    <div class="ar_green"></div>
+					    </li>
+				    
+					    <li class="pass" id="liTab">
+							<a href="/market-vectors/equity-etfs/gdxj/index/" class="index">
+								Index
+							</a>
+						    <div class="ar_green"></div>
+					    </li>
+				    
+            </ul>
+        </nav>
+    </div>   
+    <div class="right_block clearfix">
+        
+
+<div id="ctl00_ctl00_cphMain_cphMain_dzMain_updatepanel">
+	
+        <div id="ctl00_ctl00_cphMain_cphMain_dzMain_dzcontainer" class="dropzone PBClear">
+            
+            
+                    <div id="ctl00_ctl00_cphMain_cphMain_dzMain_columnDisplay_ctl00_zone" class="PBViewing" style="width:100%;">
+                        <ul id="ctl00_ctl00_cphMain_cphMain_dzMain_columnDisplay_ctl00_column" class="columnwidgetlist" columnid="0" columnguid="00000000-0000-0000-0000-000000000000">
+                            
+                            
+                                    <li class="PBItem">
+                                        
+
+<div class="widget" id="dropcontainer">
+    <span id="ctl00_ctl00_cphMain_cphMain_dzMain_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ctl00_cphMain_cphMain_dzMain_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        
+        <div id="ctl00_ctl00_cphMain_cphMain_dzMain_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_ccContent">
+			<div class="two_cols two_cols_right_item mleft17" xmlns:cms="urn:Ektron.Cms.Controls">
+  <h4>Portfolio Composition (%)<div>as of 01/22/14</div></h4>
+  <ul class="details">
+    <li class="tit">
+      <p />
+      <span />
+      <span>% of Net Assets</span>
+    </li>
+    <li class="grey">
+      <p>Stocks</p>
+      <span>100.04</span>
+      <span />
+    </li>
+    <li>
+      <p>Bonds</p>
+      <span>0.00</span>
+      <span />
+    </li>
+    <li class="grey">
+      <p>Other</p>
+      <span>0.00</span>
+      <span />
+    </li>
+    <li>
+      <p>Cash</p>
+      <span>-0.04</span>
+      <span />
+    </li>
+    <li class="total">
+      <p>Total</p>
+      <span>100.00</span>
+      <span />
+    </li>
+  </ul>
+  <div class="description" />
+</div>
+		</div>
+        
+        
+        <span id="ctl00_ctl00_cphMain_cphMain_dzMain_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_errorLb"></span>
+    
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                                    <li class="PBItem">
+                                        
+
+<div class="widget" id="dropcontainer">
+    <span id="ctl00_ctl00_cphMain_cphMain_dzMain_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ctl00_cphMain_cphMain_dzMain_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        
+        <div id="ctl00_ctl00_cphMain_cphMain_dzMain_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_WidgetHost_widget_ccContent">
+			
+    
+    <div class="right_block mbot20 clearfix" xmlns:cms="urn:Ektron.Cms.Controls">
+	      <h4>
+          
+            <a href="/FundHoldings.aspx?ticker=GDXJ" class="download xml">Download All Holdings</a>  
+          
+          All Holdings (%)
+          <span>as of 01/22/14</span>
+        </h4>
+	        
+          <div class="total_number">
+            Total Holdings: 
+            
+					      69
+				      
+          </div>
+		    
+        
+	           <table class="holding">
+		           <tr class="hat">
+                  <th>
+                    
+                  </th>
+			            <th class="leftAlign">
+                    Holding Name
+                  </th>
+			            <th>
+					        
+								      <div class= "leftAlign">Ticker</div>
+							        
+                    
+					  
+                  </th>
+			            <th>
+						      
+								      Shares
+							        
+						
+                  </th>
+			            <th>
+					        
+								      Market Value<br />(US$)
+							        
+                    
+                  </th>
+			            <th>
+					        
+								      
+							        
+                    
+                  </th>
+                 <th>
+			         
+								      
+							           
+                    
+                  </th>
+			      <th>
+                    
+				% of Net<br />Assets
+			
+                  </th>
+			         </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">China Gold Inttl Resources Corp Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">CGG CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">20,534,530</div>
+							        
+				        </td>
+			            <td>
+						      
+								      59,089,499
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      4.12
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Semafo Inc</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">SMF CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">17,580,829</div>
+							        
+				        </td>
+			            <td>
+						      
+								      57,908,079
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      4.04
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Mcewen Mining Inc</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">MUX US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">22,081,825</div>
+							        
+				        </td>
+			            <td>
+						      
+								      55,204,563
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      3.85
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Argonaut Gold Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">AR CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">11,706,674</div>
+							        
+				        </td>
+			            <td>
+						      
+								      54,025,914
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      3.77
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Torex Gold Resources Inc</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">TXG CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">50,672,817</div>
+							        
+				        </td>
+			            <td>
+						      
+								      52,273,108
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      3.64
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Silver Standard Resources Inc</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">SSRI US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">5,937,332</div>
+							        
+				        </td>
+			            <td>
+						      
+								      48,686,122
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      3.39
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Oceanagold Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">OGC CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">25,094,102</div>
+							        
+				        </td>
+			            <td>
+						      
+								      44,279,702
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      3.09
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Fortuna Silver Mines Inc</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">FVI CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">10,525,081</div>
+							        
+				        </td>
+			            <td>
+						      
+								      39,905,972
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      2.78
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">China Precious Metal Resources Holdings</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">1194 HK</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">272,606,000</div>
+							        
+				        </td>
+			            <td>
+						      
+								      39,707,494
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      2.77
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Silvercorp Metals Inc</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">SVM US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">14,277,040</div>
+							        
+				        </td>
+			            <td>
+						      
+								      38,405,238
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      2.68
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Beadell Resources Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">BDR AU</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">52,191,251</div>
+							        
+				        </td>
+			            <td>
+						      
+								      38,206,225
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      2.66
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Sandstorm Gold Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">SAND US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">7,343,969</div>
+							        
+				        </td>
+			            <td>
+						      
+								      37,601,121
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      2.62
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Primero Mining Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">P CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">6,572,495</div>
+							        
+				        </td>
+			            <td>
+						      
+								      36,517,165
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      2.55
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Endeavour Silver Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">EXK US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">8,333,313</div>
+							        
+				        </td>
+			            <td>
+						      
+								      35,999,912
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      2.51
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Dundee Precious Metals Inc</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">DPM CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">9,636,601</div>
+							        
+				        </td>
+			            <td>
+						      
+								      34,357,260
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      2.39
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Seabridge Gold Inc</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">SA US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">3,933,608</div>
+							        
+				        </td>
+			            <td>
+						      
+								      32,452,266
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      2.26
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Continental Gold Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">CNL CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">9,098,328</div>
+							        
+				        </td>
+			            <td>
+						      
+								      30,544,563
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      2.13
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Allied Nevada Gold Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">ANV US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">6,252,818</div>
+							        
+				        </td>
+			            <td>
+						      
+								      30,076,055
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      2.10
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Rio Alto Mining Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">RIO CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">14,767,220</div>
+							        
+				        </td>
+			            <td>
+						      
+								      29,799,023
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      2.08
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Rubicon Minerals Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">RMX CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">24,130,291</div>
+							        
+				        </td>
+			            <td>
+						      
+								      28,167,655
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.96
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Romarco Minerals Inc</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">R CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">54,942,847</div>
+							        
+				        </td>
+			            <td>
+						      
+								      26,847,468
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.87
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Guyana Goldfields Inc</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">GUY CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">10,539,281</div>
+							        
+				        </td>
+			            <td>
+						      
+								      25,559,020
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.78
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Papillon Resources Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">PIR AU</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">24,106,326</div>
+							        
+				        </td>
+			            <td>
+						      
+								      25,111,807
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.75
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Northern Star Resources Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">NST AU</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">28,632,082</div>
+							        
+				        </td>
+			            <td>
+						      
+								      25,035,479
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.74
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Lake Shore Gold Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">LSG CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">34,808,411</div>
+							        
+				        </td>
+			            <td>
+						      
+								      23,938,460
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.67
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Medusa Mining Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">MML AU</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">11,805,552</div>
+							        
+				        </td>
+			            <td>
+						      
+								      22,913,559
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.60
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Premier Gold Mines Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">PG CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">12,643,559</div>
+							        
+				        </td>
+			            <td>
+						      
+								      22,653,377
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.58
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Mag Silver Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">MAG CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">3,215,881</div>
+							        
+				        </td>
+			            <td>
+						      
+								      21,068,662
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.47
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Catalpa Resources Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">EVN AU</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">36,116,600</div>
+							        
+				        </td>
+			            <td>
+						      
+								      20,559,023
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.43
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Sulliden Gold Corp Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">SUE CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">25,928,943</div>
+							        
+				        </td>
+			            <td>
+						      
+								      18,535,757
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.29
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Silver Lake Resources Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">SLR AU</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">32,173,563</div>
+							        
+				        </td>
+			            <td>
+						      
+								      18,440,262
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.29
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Tanzanian Royalty Exploration Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">TRX US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">8,432,070</div>
+							        
+				        </td>
+			            <td>
+						      
+								      17,538,706
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.22
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Brigus Gold Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">BRD US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">18,034,413</div>
+							        
+				        </td>
+			            <td>
+						      
+								      17,190,402
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.20
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Endeavour Mining Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">EDV CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">30,023,306</div>
+							        
+				        </td>
+			            <td>
+						      
+								      17,115,811
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.19
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Timmins Gold Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">TMM CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">12,044,425</div>
+							        
+				        </td>
+			            <td>
+						      
+								      16,457,408
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.15
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Petropavlovsk Plc</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">POG LN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">12,714,669</div>
+							        
+				        </td>
+			            <td>
+						      
+								      15,206,559
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.06
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Gold Resource Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">GORO US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">2,830,710</div>
+							        
+				        </td>
+			            <td>
+						      
+								      14,689,620
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.02
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Golden Star Resources Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">GSS US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">21,648,199</div>
+							        
+				        </td>
+			            <td>
+						      
+								      14,437,184
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      1.01
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Resolute Mining Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">RSG AU</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">26,241,834</div>
+							        
+				        </td>
+			            <td>
+						      
+								      14,001,430
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.98
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Kirkland Lake Gold Inc</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">KGI CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">4,219,986</div>
+							        
+				        </td>
+			            <td>
+						      
+								      12,754,279
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.89
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Banro Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">BAA CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">21,062,915</div>
+							        
+				        </td>
+			            <td>
+						      
+								      12,388,829
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.86
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Paramount Gold And Silver Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">PZG US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">10,278,883</div>
+							        
+				        </td>
+			            <td>
+						      
+								      12,026,293
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.84
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Troy Resources Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">TRY AU</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">12,501,122</div>
+							        
+				        </td>
+			            <td>
+						      
+								      11,599,722
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.81
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Keegan Resources Inc</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">AKG CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">6,679,849</div>
+							        
+				        </td>
+			            <td>
+						      
+								      11,061,554
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.77
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Kingsgate Consolidated Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">KCN AU</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">10,433,152</div>
+							        
+				        </td>
+			            <td>
+						      
+								      10,631,739
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.74
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Perseus Mining Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">PRU CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">30,610,032</div>
+							        
+				        </td>
+			            <td>
+						      
+								      10,525,574
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.73
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Indophil Resources Nl</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">IRN AU</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">67,349,944</div>
+							        
+				        </td>
+			            <td>
+						      
+								      10,440,844
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.73
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Saracen Mineral Holdings Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">SAR AU</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">46,252,579</div>
+							        
+				        </td>
+			            <td>
+						      
+								      10,194,825
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.71
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Drdgold Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">DRD US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">2,575,868</div>
+							        
+				        </td>
+			            <td>
+						      
+								      9,917,092
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.69
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Intrepid Mines Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">IAU AU</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">35,791,688</div>
+							        
+				        </td>
+			            <td>
+						      
+								      9,659,953
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.67
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Patagonia Gold Plc</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">PGD LN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">45,753,232</div>
+							        
+				        </td>
+			            <td>
+						      
+								      9,484,359
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.66
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Midway Gold Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">MDW US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">7,654,357</div>
+							        
+				        </td>
+			            <td>
+						      
+								      9,338,316
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.65
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Great Panther Silver Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">GPL US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">10,752,110</div>
+							        
+				        </td>
+			            <td>
+						      
+								      8,902,747
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.62
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">St Barbara Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">SBM AU</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">28,137,071</div>
+							        
+				        </td>
+			            <td>
+						      
+								      8,802,744
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.61
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">China Silver Group Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">815 HK</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">56,768,000</div>
+							        
+				        </td>
+			            <td>
+						      
+								      8,410,088
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.59
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Sabina Gold & Silver Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">SBB CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">10,374,573</div>
+							        
+				        </td>
+			            <td>
+						      
+								      8,355,235
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.58
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Gabriel Resources Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">GBU CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">8,664,679</div>
+							        
+				        </td>
+			            <td>
+						      
+								      7,840,629
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.55
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Liongold Corp Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">LIGO SP</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">66,050,000</div>
+							        
+				        </td>
+			            <td>
+						      
+								      7,747,195
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.54
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Highland Gold Mining Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">HGM LN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">6,521,327</div>
+							        
+				        </td>
+			            <td>
+						      
+								      7,130,494
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.50
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Lydian International Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">LYD CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">7,395,599</div>
+							        
+				        </td>
+			            <td>
+						      
+								      7,093,779
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.49
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Alexco Resource Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">AXU US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">3,398,204</div>
+							        
+				        </td>
+			            <td>
+						      
+								      5,912,875
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.41
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Belo Sun Mining Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">BSX CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">14,663,050</div>
+							        
+				        </td>
+			            <td>
+						      
+								      5,639,124
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.39
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Bear Creek Mining Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">BCM CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">2,784,820</div>
+							        
+				        </td>
+			            <td>
+						      
+								      4,661,946
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.32
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Real Gold Mining Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">246 HK</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">19,288,900</div>
+							        
+				        </td>
+			            <td>
+						      
+								      4,488,976
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.31
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Focus Minerals Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">FML AU</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">389,346,069</div>
+							        
+				        </td>
+			            <td>
+						      
+								      4,483,730
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.31
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Aurcana Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">AUN CN</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">3,220,888</div>
+							        
+				        </td>
+			            <td>
+						      
+								      2,739,693
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.19
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Red 5 Ltd</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">RED AU</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">34,105,574</div>
+							        
+				        </td>
+			            <td>
+						      
+								      2,625,913
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.18
+							        
+					        </td>
+			           </tr>
+               
+                 <tr>
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Coeur D'Alene Mines Corp</td>
+			            <td> 
+					         
+								      <div class= "leftAlign ">CDE/WS US</div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight">24,436</div>
+							        
+				        </td>
+			            <td>
+						      
+								      37,631
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      0.00
+							        
+					        </td>
+			           </tr>
+               
+                 <tr class="color">
+				        <td>
+						      
+							      
+				        </td>
+			            <td class="leftAlign">Other/Cash</td>
+			            <td> 
+					         
+								      <div class= "leftAlign "></div>
+							        
+				        </td>
+			            <td>
+				        
+								      <div class= "paddingRight paddingRight"></div>
+							        
+				        </td>
+			            <td>
+						      
+								      -603,283
+							        
+				        </td>
+			            <td>
+						      
+								      
+							        
+				        </td>
+				        <td>
+					        
+								      
+							        
+				        </td>
+					        
+			   
+			            <td>
+					        
+								      -0.04
+							        
+					        </td>
+			           </tr>
+               
+               
+                 <tr class="total">
+                  <td colspan="7" class="leftAlign">Total (%)</td>
+                  
+                 <td>
+			         
+                      
+								      99.99
+							        
+			   
+                  </td>
+			
+			
+		         </tr>
+               
+             </table>
+          
+         <div class="description">
+           These are not recommendations to buy or to sell any security. Securities and holdings may vary.
+         </div>
+	  </div>
+  
+		</div>
+        
+        
+        <span id="ctl00_ctl00_cphMain_cphMain_dzMain_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_WidgetHost_widget_errorLb"></span>
+    
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                        </ul>
+                    </div>
+                
+        </div>
+    
+</div>
+
+
+    </div>
+
+    </section><!--end right_col-->
+
+            </section>
+            <!--end section.main-->
+            <footer class="clearfix">
+                <ul class="navigation footerNav">
+                    <li class="contact">
+                        <a href="/about-van-eck/contact-us">CONTACT</a></li>
+                    <li class="feedback footer_hide_li"><a href="/form.aspx?ekfrm=89">
+                        <span id="ctl00_ctl00_lFeedbackFooter">Feedback</span></a></li>
+                    <li class="sitemap footer_hide_li"><a href="/sitemap.aspx">
+                        <span id="ctl00_ctl00_lSiteMapFooter">Site Map</span></a></li>
+                    <li class="legal footer_hide_li">
+                        <span id="ctl00_ctl00_lLegalFooter"><a href="/legal">Legal</a></span></li>
+                </ul>
+                
+    
+    
+
+<div id="ctl00_ctl00_cphFooter_cphIntFooter_dzFooter_updatepanel">
+	
+        <div id="ctl00_ctl00_cphFooter_cphIntFooter_dzFooter_dzcontainer" class="dropzone PBClear">
+            
+            
+                    <div id="ctl00_ctl00_cphFooter_cphIntFooter_dzFooter_columnDisplay_ctl00_zone" class="PBViewing" style="width:100%;">
+                        <ul id="ctl00_ctl00_cphFooter_cphIntFooter_dzFooter_columnDisplay_ctl00_column" class="columnwidgetlist" columnid="0" columnguid="00000000-0000-0000-0000-000000000000">
+                            
+                            
+                                    <li class="PBItem">
+                                        
+
+<div class="widget" id="dropcontainer">
+    <span id="ctl00_ctl00_cphFooter_cphIntFooter_dzFooter_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ctl00_cphFooter_cphIntFooter_dzFooter_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        
+        <div id="ctl00_ctl00_cphFooter_cphIntFooter_dzFooter_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_ccContent">
+			<span style="display:none" xmlns:cms="urn:Ektron.Cms.Controls"> </span>
+    
+    <script language="JavaScript" type="text/javascript" defer="defer" xmlns:cms="urn:Ektron.Cms.Controls">
+      <!--
+        function ektLocalizeDate(date, id) {
+	        setTimeout(function() {
+	        if (document.getElementById && 10 == date.length) {
+		        var oTempDate = new Date(date.substr(0,4), parseInt(date.substr(5,2),10)-1, date.substr(8,2));
+		        document.getElementById(id).innerHTML=(oTempDate.toLocaleDateString ? oTempDate.toLocaleDateString() : oTempDate.toLocaleString());
+	        }
+	        }, 1); 
+        }
+      
+// -->
+    </script>
+    
+      <div class="contact_us" xmlns:cms="urn:Ektron.Cms.Controls">
+	      <h6 class="in_footer"></h6>
+	      <p class="text_in_footer">Van Eck Securities<br/>
+ Corporation, Distributor<br/> 335 Madison Avenue, 
+19<sup>th</sup> Fl.<br/> New York, NY 10017<br/>
+ 888.MKT.VCTR<br/> 888.658.8287<br/>marketvectors@vaneck.com</p>
+      	
+	      <div class="more_icon no_backg">
+		        
+	      </div>
+      </div>
+    
+    
+		</div>
+        
+        
+        <span id="ctl00_ctl00_cphFooter_cphIntFooter_dzFooter_columnDisplay_ctl00_controlcolumn_ctl00_WidgetHost_WidgetHost_widget_errorLb"></span>
+    
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                                    <li class="PBItem">
+                                        
+
+<div class="widget" id="dropcontainer">
+    <span id="ctl00_ctl00_cphFooter_cphIntFooter_dzFooter_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_lblErrorMessage"></span>
+    <div id="ctl00_ctl00_cphFooter_cphIntFooter_dzFooter_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_updatepanel">
+		
+            
+            <div class="content">
+                
+        
+        <div id="ctl00_ctl00_cphFooter_cphIntFooter_dzFooter_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_WidgetHost_widget_ccContent">
+			<span style="display:none" xmlns:cms="urn:Ektron.Cms.Controls"> </span>
+<script language="JavaScript" type="text/javascript" defer="defer" xmlns:cms="urn:Ektron.Cms.Controls">
+  <!--
+function ektLocalizeDate(date, id) {
+	setTimeout(function() {
+	if (document.getElementById && 10 == date.length) {
+		var oTempDate = new Date(date.substr(0,4), parseInt(date.substr(5,2),10)-1, date.substr(8,2));
+		document.getElementById(id).innerHTML=(oTempDate.toLocaleDateString ? oTempDate.toLocaleDateString() : oTempDate.toLocaleString());
+	}
+	}, 1); 
+}
+// -->
+</script>
+    
+    <div class="important" xmlns:cms="urn:Ektron.Cms.Controls">
+	    <h6 class="in_footer">Important Disclosure</h6>
+	    <div class="text_in_footer imp">
+        <p><sup>1</sup><strong>30-Day SEC Yield </strong>is calculated daily, and is a standard yield calculation developed by the Securities and Exchange Commission that allows for fairer comparisons primarily among bond funds. It is based on the most recent 30-day period. This yield figure reflects the interest earned during the period after deducting the fund's expenses for the period. It does not reflect the yield an investor would have received if they had held the fund over the last twelve months assuming the most recent NAV. In the absence of temporary expense waivers or reimbursements, the <strong>30-Day SEC Yield</strong> for Market Vectors Junior Gold Miners ETF would have been -0.12% on 01/22/2014.  </p><p><strong><a title="2Expenses" name="2Expenses"><sup>2</sup>GDXJ Fees &amp; Expenses:</a></strong> Van Eck Associates Corporation (the “Adviser”) has agreed to waive fees and/or pay Fund expenses to the extent necessary to prevent the operating expenses of the Fund (excluding acquired fund fees and expenses, interest expense, offering costs, trading expenses, taxes and extraordinary expenses) from exceeding 0.56% of the Fund’s average daily net assets per year until at least May 1, 2014. During such time,the expense limitation is expected to continue until the Fund’s Board of Trustees acts to discontinue all or a portion of such expense limitation.</p><p><sup>3</sup><strong>Morningstar Ratings</strong>: ©2013 Morningstar, Inc. All Rights Reserved. The information contained herein: (1) is proprietary to Morningstar; (2) may not be copied or distributed; and (3) is not warranted to be accurate, complete or timely. Neither Morningstar nor its content providers are responsible for any damages or losses arising from any use of this information. Past performance is no guarantee of future results. </p><p><sup>4</sup><strong>IIV</strong> is an abbreviation for an ETF's intraday indicative value; it is an estimated fair value of its holdings based on the most recent prices of its underlying securities and other assets. Intraday values are typically updated every 15 seconds and should closely approximate the net asset value (NAV) of an ETF throughout the trading day. ETF intraday values are calculated by an exchange (e.g., the NYSE Arca) and are distributed through quote services.</p><p>For each fund with at least a three-year history, Morningstar calculates a Morningstar Rating based on a Morningstar Risk-Adjusted Return measure that accounts for variation in a fund’s monthly performance (including the effects of sales charges, loads, and redemption fees), placing more emphasis on downward variations and rewarding consistent performance. The top 10% of funds in each category receive 5 stars, the next 22.5% receive 4 stars, the next 35% receive 3 stars, the next 22.5% receive 2 stars and the bottom 10% receive 1 star. (Each share class is counted as a fraction of one fund within this scale and rated separately, which may cause slight variations in the distribution percentages.) The Overall Morningstar Rating for a fund is derived from a weighted average of the performance figures associated with its three-, five- and ten-year (if applicable) Morningstar Rating metrics.</p><p>Gold- and silver-related investments are subject to risks including bullion price volatility, changes in world political developments, competitive pressures and risks associated with foreign investments. In times of stable economic growth, the value of gold, silver and other precious metals may be adversely affected. Mining companies are subject to elevated risks, which include, among others, competitive pressures, commodity and currency price fluctuations, and adverse governmental or environmental regulations. In particular, small and mid-cap mining companies may be subject to additional risks including inability to commence production and generate material revenues, significant expenditures and inability to secure financing, which may cause such companies to operate at a loss, greater volatility, lower trading volume and less liquidity than larger companies. Investors should be willing to accept a high degree of volatility and the potential of significant loss.</p><p>The Market Vectors Global Junior Gold Miners Index (the “Index”) is the exclusive property of Market Vectors Index Solutions GmbH (a wholly owned subsidiary of the Adviser), which has contracted with Structured Solutions AG to maintain and calculate the Index. Structured Solutions AG uses its best efforts to ensure that the Index is calculated correctly. Irrespective of its obligations towards Market Vectors Index Solutions GmbH, Structured Solutions AG has no obligation to point out errors in the Index to third parties.</p><p>The Market Vectors Junior Gold Miners ETF is not sponsored, endorsed, sold or promoted by Market Vectors Index Solutions GmbH and Market Vectors Index Solutions GmbH makes no representation regarding the advisability of investing in the Fund.</p><p>Index returns are not Fund returns and do not reflect any management fees or brokerage expenses. Investors can not invest directly in the Index. Returns for actual Fund investors may differ from what is shown because of differences in timing, the amount invested and fees and expenses. Index returns assume that dividends have been reinvested.</p><p>The S&amp;P® 500 Index consists of 500 widely held common stocks covering industrial, utility, financial and transportation sector; as an Index, it is unmanaged and is not a security in which investments can be made.</p><p>The “Net Asset Value” (NAV) of a Market Vectors Exchange Traded Fund (ETF) is determined at the close of each business day, and represents the dollar value of one share of the fund; it is calculated by taking the total assets of the fund, subtracting total liabilities, and dividing by the total number of shares outstanding. The NAV is not necessarily the same as the ETF’s intraday trading value. Market Vectors ETF investors should not expect to buy or sell shares at NAV.</p><p>Fund shares are not individually redeemable and will be issued and redeemed at their NAV only through certain authorized broker-dealers in large, specified blocks of shares called "creation units" and otherwise can be bought and sold only through exchange trading. Creation units are issued and redeemed principally in kind. Shares may trade at a premium or discount to their NAV in the secondary market. You will incur brokerage expenses when trading Fund shares in the secondary market. Past performance is no guarantee of future results. Returns for actual Fund investments may differ from what is shown because of differences in timing, the amount invested, and fees and expenses.</p><p><em>Investing involves substantial risk and high volatility, including possible loss of principal. Bonds and bond funds will decrease in value as interest rates rise. An investor should consider the investment objective, risks, charges and expenses of the Fund carefully before investing. To obtain a <a href="/library/page_lit.aspx?id=399">prospectus and summary prospectus</a>, which contains this and other information, call 888.MKT.VCTR or visit <a href="/page_mv.aspx?Group=ETF">vaneck.com/etf</a>. Please read the <a href="/library/page_lit.aspx?id=399">prospectus and summary prospectus</a> carefully before investing.</em> </p><em>Not FDIC Insured — No Bank Guarantee — May Lose Value </em>
+	    </div>
+    </div>
+      
+  
+		</div>
+        
+        
+        <span id="ctl00_ctl00_cphFooter_cphIntFooter_dzFooter_columnDisplay_ctl00_controlcolumn_ctl01_WidgetHost_WidgetHost_widget_errorLb"></span>
+    
+            </div>
+        
+	</div>
+</div>
+                                    </li>
+                                
+                        </ul>
+                    </div>
+                
+        </div>
+    
+</div>
+
+
+
+
+                <div class="copyRightFooter"><p>© 2014&#160;Van Eck Securities Corporation. All rights reserved.</p></div>
+                <div class="imgVaneckLogo"><a href="/" id="ctl00_ctl00_vaneck_img_link"><img id="ctl00_ctl00_imgVaneckLogo" class="imgVaneckLogo" src="/uploadedImages/Icon_and_Images/veg_logo.gif" style="border-width:0px;" /></a></div>
+                <div class="shadow_footer"></div>
+            </footer>
+            <!--end footer-->
+        </div>
+        <!--end wrapper-->
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_UserNameRequired"), document.getElementById("ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_PasswordRequired"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_UserNameRequired = document.all ? document.all["ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_UserNameRequired"] : document.getElementById("ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_UserNameRequired");
+ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_UserNameRequired.controltovalidate = "ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_UserName";
+ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_UserNameRequired.errormessage = "*";
+ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_UserNameRequired.display = "Dynamic";
+ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_UserNameRequired.validationGroup = "lgnProfessional";
+ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_UserNameRequired.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_UserNameRequired.initialvalue = "";
+var ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_PasswordRequired = document.all ? document.all["ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_PasswordRequired"] : document.getElementById("ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_PasswordRequired");
+ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_PasswordRequired.controltovalidate = "ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_Password";
+ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_PasswordRequired.errormessage = "*";
+ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_PasswordRequired.display = "Dynamic";
+ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_PasswordRequired.validationGroup = "lgnProfessional";
+ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_PasswordRequired.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_PasswordRequired.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        Sys.Application.initialize();
+
+document.getElementById('ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_UserNameRequired').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_UserNameRequired'));
+}
+
+document.getElementById('ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_PasswordRequired').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl00_cphMain_cphLeftColumn_login1_lgnProfessional_PasswordRequired'));
+}
+//]]>
+</script>
+</form>
+    <script language="javascript" type="text/javascript">
+$(document).ready(function() {
+var anchorTags = document.getElementsByTagName("a");
+var internalTrack = ["linkit.aspx", "showcontent.aspx", "downloadasset.aspx"];
+for (var i = 0; i < anchorTags.length; i++) {
+if (anchorTags[i].href.indexOf(internalTrack[0]) != -1) {
+var tmp = anchorTags[i].getAttribute("onclick");
+if (tmp == null) {
+//alert( anchorTags[i].href);
+anchorTags[i].onclick = new Function("AddLinkToGATracker(this)");
+}
+}
+}
+});
+function AddLinkToGATracker(link) {
+var pageTracker = _gat._getTracker("UA-6442120-1");
+var pageUrl = "/gtrack/" + link;
+pageTracker._setCustomVar(1, 'Language', 'en-US', 3);pageTracker._trackPageview(pageUrl);
+//alert(pageUrl);
+};
+</script>
+    <!-- facebook share code - customize via http://developers.facebook.com/docs/share/ -->
+    
+    <script type="text/javascript"> !function () { var url = "http://www.facebook.com/sharer/sharer.php?u=" + location.href; var el = $("a[name=facebookLink]"); el.attr("href", url); el.click(function () { open(url, "displayWindow", "width=520,height=300,left=350,top=170,status=no,toolbar=no,menubar=no"); return false; }); }(document, "script", "facebook-wjs");</script>
+    <!-- end facebook -->
+    <!-- twitter share code - customize via http://twitter.com/about/resources/buttons -->
+    <script type="text/javascript"> !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+    <!-- end twitter -->
+</body>
+</html>
